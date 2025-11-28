@@ -1,0 +1,69 @@
+[
+  {
+    "id": "apparel_fashion",
+    "name": "Apparel & Fashion",
+    "sector": "DTC",
+    "description": "inieneral clothing and fashion retail. Sub-industries include: Athleisure & Activewear, Intimates & Basics, Sustainable Fashion, Direct-to-Consumer Footwear, Streetwear, Eyewear, and Fashion Accessories."
+  },
+  {
+    "id": "beauty_personal_care",
+    "name": "Beauty & Personal Care",
+    "sector": "DTC",
+    "description": "Cosmetics, skincare, grooming, and hygiene. Sub-industries include: Clean Beauty, Personalized Skincare, Men's Grooming, Oral Care, Hair Care, and Feminine Care."
+  },
+  {
+    "id": "food_beveramini",
+    "name": "Food & Beverage (CPG)",
+    "sector": "DTC",
+    "description": "Consumer packaged foods sold online. Sub-industries include: Functional Beverages, Meal Kits, Plant-Based Alternatives, Healthy Snacks, Coffee & Tea, Alcohol & Spirits, and Pantry Staples."
+  },
+  {
+    "id": "health_wellness",
+    "name": "Health & Wellness",
+    "sector": "DTC",
+    "description": "Products focused on physical and mental wellbeing. Sub-industries include: Supplements & Vitamins, Fitness Hardware, Sleep Technology, and Sexual Wellness."
+  },
+  {
+    "id": "home_living",
+    "name": "Home & Living",
+    "sector": "DTC",
+    "description": "Furniture, decor, and home goods. Sub-industries include: Furniture, Kitchenware, Home Decor, and Cleaning Supplies."
+  },
+  {
+    "id": "pet_care",
+    "name": "Pet Care",
+    "sector": "DTC",
+    "description": "Products for domestic animals. Sub-industries include: Pet Food and Pet Supplies."
+  },
+  {
+    "id": "marketing_sales_martech",
+    "name": "Marketing & Sales (MarTech)",
+    "sector": "SaaS",
+    "description": "Tools for marketing and sales operations. Sub-industries include: CRM, Email Marketing, Social Media Manaient, SEO & Content Marketing, and AdTech."
+  },
+  {
+    "id": "hr_hrtech",
+    "name": "Human Resources (HRTech)",
+    "sector": "SaaS",
+    "description": "Software for HR management. Sub-industries include: HRIS, Applicant Tracking Systems (ATS), Payroll & Compliance, and Employee Engagement."
+  },
+  {
+    "id": "productivity_collaboration",
+    "name": "Productivity & Collaboration",
+    "sector": "SaaS",
+    "description": "Tools to improve work efficiency and teamwork. Sub-industries include: Project Management, Team Communication, Knowledge Management, and Design Tools."
+  },
+  {
+    "id": "finance_accounting_fintech",
+    "name": "Finance & Accounting (FinTech)",
+    "sector": "SaaS",
+    "description": "Financial and accounting systems. Sub-industries include: Accounting Software, Expense Management, and Payment Gateways."
+  },
+  {
+    "id": "developer_tools_devtools",
+    "name": "Developer Tools (DevTools)",
+    "sector": "SaaS",
+    "description": "Software for developers to build and operate applications. Sub-industries include: Cloud Infrastructure, Observability & Monitoring, and Cybersecurity & Identity."
+  }
+]
+

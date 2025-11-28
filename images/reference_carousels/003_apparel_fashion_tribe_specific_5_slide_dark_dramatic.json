@@ -1,0 +1,13 @@
+{
+  "prompt": "Create a horizontal banner showing 5 Instagram slides side by side.\n\nDark charcoal background. White bold text.\n\nSlide 1: \"FOR SNEAKERHEADS\"\nSlide 2: \"Your Problems\"  \nSlide 3: \"Our Solutions\"\nSlide 4: \"\u2605\u2605\u2605\u2605\u2605 Love it\"\nSlide 5: \"SHOP NOW\"\n\nSimple, clean, minimal. 5 equal squares in a row.",
+  "enhanced_prompt": "Create a horizontal banner showing 5 Instagram slides side by side.\n\nDark charcoal background. White bold text.\n\nSlide 1: \"FOR SNEAKERHEADS\"\nSlide 2: \"Your Problems\"  \nSlide 3: \"Our Solutions\"\nSlide 4: \"\u2605\u2605\u2605\u2605\u2605 Love it\"\nSlide 5: \"SHOP NOW\"\n\nSimple, clean, minimal. 5 equal squares in a row., high quality, 1024x1024 resolution",
+  "style": null,
+  "resolution": "1024x1024",
+  "num_images_generated": 1,
+  "saved_paths": [
+    "../reference_carousels/003_apparel_fashion_tribe_specific_5_slide_dark_dramatic.png"
+  ],
+  "text_response": null,
+  "timestamp": "2025-11-26T22:12:53.053622",
+  "success": true
+}

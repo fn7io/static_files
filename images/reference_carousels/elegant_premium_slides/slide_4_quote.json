@@ -1,0 +1,13 @@
+{
+  "prompt": "Create a square slide. ELEGANT PREMIUM style: cream background, navy text, gold accents, serif font. A quote: 'Elegance is the only beauty that never fades' - A. Hepburn. Sophisticated quote card design.",
+  "enhanced_prompt": "Create a square slide. ELEGANT PREMIUM style: cream background, navy text, gold accents, serif font. A quote: 'Elegance is the only beauty that never fades' - A. Hepburn. Sophisticated quote card design., high quality, 1024x1024 resolution",
+  "style": null,
+  "resolution": "1024x1024",
+  "num_images_generated": 1,
+  "saved_paths": [
+    "reference_carousels/elegant_premium_slides/slide_4_quote.png"
+  ],
+  "text_response": null,
+  "timestamp": "2025-11-26T21:27:03.327021",
+  "success": true
+}

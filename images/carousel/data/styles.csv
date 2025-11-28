@@ -1,0 +1,21 @@
+#,Style Name,Visual Description,Best For,Hook Patterns
+Tier 1: Universal Styles,,,,
+1,Modern Clean,"Contemporary sans-serif typography, current design trends, fresh color palette, balanced white space",All industries - versatile foundation,"all hooks"
+2,Minimalist,"Maximum white space, essential elements only, neutral palette, single accent color, breathing room","SaaS, Health & Wellness, Home & Living","insider_secret, one_change"
+3,Simple Bold,"High contrast black/white, strong hierarchy, oversized headlines, clear call-to-action","Marketing & Sales, Finance","stop_doing, myth_bust, price_math"
+4,Elegant Premium,"Sophisticated serif fonts, muted luxury colors (navy, cream, gold accents), refined spacing","Beauty, Fashion, Home & Living","insider_secret, tribe_callout"
+5,Aesthetic Soft,"Trendy Instagram-worthy, soft gradients, rounded corners, pleasing color harmony","Beauty, Food & Beverage, Lifestyle","tribe_callout, social_proof"
+6,Professional Corporate,"Business-ready, structured grid, trustworthy blue tones, clean data presentation","Finance, HR, Developer Tools","price_math, x_vs_y, social_proof"
+Tier 2: Mood & Vibe Styles,,,,
+7,Warm Friendly,"Approachable feel, warm color palette (orange, coral, cream), soft shadows, inviting","Pet Care, Food & Beverage, Health","tribe_callout, founder_confession"
+8,Dark Dramatic,"Deep backgrounds (charcoal, navy), high contrast text, moody lighting, premium feel","Fashion, Tech products, Finance","secret_reveal, fomo, contrarian"
+9,Playful Colorful,"Vibrant multi-color palette, fun shapes, energetic composition, bold contrasts","Pet Care, Food & Beverage, Kids","stop_doing (fun), tribe_callout"
+10,Soft Organic,"Natural earth tones, gentle curves, subtle textures, calming presence","Health & Wellness, Beauty, Sustainable brands","insider_secret, one_change"
+Tier 3: Specialty Styles,,,,
+11,Retro Vintage,"Nostalgic color palette, film grain texture, retro typography, throwback vibes","Fashion, Food & Beverage, Lifestyle","tribe_callout, contrarian"
+12,Tech Futuristic,"Dark mode, neon accents, glassmorphism, gradient meshes, digital-native","Developer Tools, SaaS, Productivity","x_vs_y, price_math, insider_secret"
+13,Editorial Magazine,"High-fashion layout, serif headlines, asymmetric grid, sophisticated photography feel","Fashion, Beauty, Lifestyle content","tribe_callout, founder_confession"
+14,Bold Typography,"Text-dominant design, massive headlines, minimal imagery, typographic hierarchy","Marketing, Educational content, Announcements","stop_doing, myth_bust, contrarian"
+15,Handcrafted Artisan,"Texture overlays, hand-drawn elements, craft paper feel, authentic warmth","Food & Beverage, Sustainable Fashion, Home goods","founder_confession, insider_secret"
+16,Lo-fi Raw,"Unpolished UGC aesthetic, low production value feel, authentic imperfection, screenshot-style","DTC brands, UGC-heavy content, Testimonials","founder_confession, social_proof, anti_ad"
+

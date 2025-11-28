@@ -1,0 +1,13 @@
+{
+  "prompt": "Create a horizontal banner showing 5 carousel slides in a row.\n\nSTYLE: ELEGANT PREMIUM - navy and cream, gold accents, serif font\n\nShow 5 slides side by side. Each slide has bold text:\nSlide1:'For You' Slide2:'Problem' Slide3:'Solution' Slide4:'Quote' Slide5:'Join'\n\nMake it clean and cohesive in the Elegant Premium style for Apparel & Fashion.",
+  "enhanced_prompt": "Create a horizontal banner showing 5 carousel slides in a row.\n\nSTYLE: ELEGANT PREMIUM - navy and cream, gold accents, serif font\n\nShow 5 slides side by side. Each slide has bold text:\nSlide1:'For You' Slide2:'Problem' Slide3:'Solution' Slide4:'Quote' Slide5:'Join'\n\nMake it clean and cohesive in the Elegant Premium style for Apparel & Fashion., high quality, 1024x1024 resolution",
+  "style": null,
+  "resolution": "1024x1024",
+  "num_images_generated": 1,
+  "saved_paths": [
+    "/Users/muralisid/github/static_files/images/reference_carousels/002_apparel_fashion_tribe_specific_5_slide_elegant_premium.png"
+  ],
+  "text_response": null,
+  "timestamp": "2025-11-26T18:25:29.211724",
+  "success": true
+}

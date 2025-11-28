@@ -1,0 +1,1053 @@
+{
+  "version": "2.0",
+  "description": "Standard element library aligned with Insight Families hook patterns",
+  "element_philosophy": {
+    "element_is": "Structure - defines WHAT content slots exist and their constraints",
+    "style_is": "Skin - defines HOW the element looks visually",
+    "combination": "Element + Style = Complete slide design",
+    "hook_pattern": "The psychological trigger that makes someone stop scrolling"
+  },
+  "elements": [
+    {
+      "id": "hero_headline",
+      "label": "Hero Headline",
+      "description": "Big bold headline that dominates the slide. Maximum impact, minimum elements.",
+      "hook_patterns": ["tribe_callout", "contrarian_take", "open_loop_tease"],
+      "slots": {
+        "headline": true,
+        "subheading": true,
+        "body_text": false,
+        "bullets": false,
+        "stat_number": false,
+        "quote": false,
+        "person_image": false,
+        "product_image": false,
+        "icons": false,
+        "diagram": false
+      },
+      "constraints": {
+        "headline_max_chars": 40,
+        "headline_max_words": 6,
+        "subheading_max_chars": 60,
+        "subheading_max_words": 10,
+        "emojis_allowed": false
+      },
+      "intended_use": {
+        "slide_types": ["hook", "transition", "section_break"],
+        "good_for": ["Opening hooks", "Chapter breaks", "Bold statements", "Slide 1 attention grabbers"],
+        "insight_families": ["intent_signals", "audience_segments"],
+        "pair_with_styles": ["Simple Bold", "Bold Typography", "Dark Dramatic", "Modern Clean"]
+      },
+      "media_behavior": {
+        "requires_image": false,
+        "background_type": "solid_color_or_subtle_gradient"
+      }
+    },
+    {
+      "id": "myth_bust",
+      "label": "Myth Bust",
+      "description": "What you think vs Reality format. Corrects misconceptions with surprising truth.",
+      "hook_patterns": ["myth_bust", "surprising_stat", "contrarian_take"],
+      "slots": {
+        "headline": true,
+        "subheading": false,
+        "body_text": false,
+        "bullets": false,
+        "stat_number": false,
+        "quote": false,
+        "person_image": false,
+        "product_image": false,
+        "icons": true,
+        "diagram": false
+      },
+      "constraints": {
+        "headline_max_chars": 30,
+        "headline_max_words": 5,
+        "myth_label": "❌ MYTH or 'What you think'",
+        "truth_label": "✅ TRUTH or 'Reality'",
+        "myth_text_max_chars": 50,
+        "truth_text_max_chars": 50,
+        "emojis_allowed": true
+      },
+      "intended_use": {
+        "slide_types": ["hook", "education", "authority"],
+        "good_for": ["Myth busting", "Surprising facts", "Expert corrections", "Counter-intuitive truths"],
+        "insight_families": ["knowledge_myths", "pain_problem"],
+        "pair_with_styles": ["Simple Bold", "Modern Clean", "Professional Corporate", "Dark Dramatic"]
+      },
+      "media_behavior": {
+        "requires_image": false,
+        "layout": "stacked_myth_then_truth",
+        "icon_type": "x_mark_and_checkmark"
+      }
+    },
+    {
+      "id": "stop_doing",
+      "label": "Stop Doing This",
+      "description": "Negative hook that calls out a mistake. 'STOP doing X' format grabs attention.",
+      "hook_patterns": ["stop_doing_this", "insider_secret", "one_change_trick"],
+      "slots": {
+        "headline": true,
+        "subheading": true,
+        "body_text": false,
+        "bullets": false,
+        "stat_number": false,
+        "quote": false,
+        "person_image": false,
+        "product_image": false,
+        "icons": true,
+        "diagram": false
+      },
+      "constraints": {
+        "headline_max_chars": 35,
+        "headline_max_words": 5,
+        "headline_format": "STOP [doing X] or Never [do X]",
+        "subheading_max_chars": 60,
+        "subheading_max_words": 10,
+        "emojis_allowed": true
+      },
+      "intended_use": {
+        "slide_types": ["hook", "warning", "education"],
+        "good_for": ["Common mistakes", "Bad habits to break", "Warning hooks", "Pattern interrupts"],
+        "insight_families": ["pain_problem", "routines_behavior", "mistakes_patterns"],
+        "pair_with_styles": ["Simple Bold", "Dark Dramatic", "Bold Typography", "Playful Colorful"]
+      },
+      "media_behavior": {
+        "requires_image": false,
+        "icon_type": "stop_hand_or_x",
+        "background_type": "high_contrast"
+      }
+    },
+    {
+      "id": "secret_reveal",
+      "label": "Secret Reveal",
+      "description": "Insider knowledge format. 'What [experts] won't tell you' or 'The secret is...'",
+      "hook_patterns": ["insider_secret", "one_change_trick", "open_loop_tease"],
+      "slots": {
+        "headline": true,
+        "subheading": true,
+        "body_text": false,
+        "bullets": false,
+        "stat_number": false,
+        "quote": false,
+        "person_image": false,
+        "product_image": false,
+        "icons": true,
+        "diagram": false
+      },
+      "constraints": {
+        "headline_max_chars": 40,
+        "headline_max_words": 6,
+        "headline_format": "The [X] secret... or What [experts] won't tell you",
+        "subheading_max_chars": 70,
+        "subheading_max_words": 12,
+        "emojis_allowed": true
+      },
+      "intended_use": {
+        "slide_types": ["hook", "reveal", "insider"],
+        "good_for": ["Industry secrets", "Pro tips", "Hidden knowledge", "Exclusive insights"],
+        "insight_families": ["knowledge_myths", "routines_behavior", "hacks_shortcuts"],
+        "pair_with_styles": ["Dark Dramatic", "Modern Clean", "Editorial Magazine", "Elegant Premium"]
+      },
+      "media_behavior": {
+        "requires_image": false,
+        "icon_type": "lock_or_key_or_eye",
+        "background_type": "mysterious_gradient"
+      }
+    },
+    {
+      "id": "tribe_callout",
+      "label": "Tribe Callout",
+      "description": "Direct audience targeting. 'For [specific audience]' or 'If you're a [tribe]...'",
+      "hook_patterns": ["tribe_callout", "open_loop_tease"],
+      "slots": {
+        "headline": true,
+        "subheading": true,
+        "body_text": false,
+        "bullets": false,
+        "stat_number": false,
+        "quote": false,
+        "person_image": false,
+        "product_image": false,
+        "icons": false,
+        "diagram": false
+      },
+      "constraints": {
+        "headline_max_chars": 40,
+        "headline_max_words": 6,
+        "headline_format": "For [tribe] only or If you're a [segment]...",
+        "subheading_max_chars": 50,
+        "subheading_max_words": 8,
+        "tribe_label_max_chars": 25,
+        "emojis_allowed": true
+      },
+      "intended_use": {
+        "slide_types": ["hook", "targeting", "community"],
+        "good_for": ["Niche targeting", "Community building", "Segment-specific content", "Identity hooks"],
+        "insight_families": ["audience_segments", "tribe_identity", "community_tribe"],
+        "pair_with_styles": ["Modern Clean", "Warm Friendly", "Aesthetic Soft", "Bold Typography"]
+      },
+      "media_behavior": {
+        "requires_image": false,
+        "background_type": "brand_color"
+      }
+    },
+    {
+      "id": "price_value",
+      "label": "Price Value",
+      "description": "Cost breakdown or price-math format. Shows value through numbers.",
+      "hook_patterns": ["price_math_flip", "roi_calc", "per_use_cost"],
+      "slots": {
+        "headline": true,
+        "subheading": true,
+        "body_text": false,
+        "bullets": false,
+        "stat_number": true,
+        "quote": false,
+        "person_image": false,
+        "product_image": false,
+        "icons": false,
+        "diagram": false
+      },
+      "constraints": {
+        "headline_max_chars": 30,
+        "headline_max_words": 5,
+        "price_display_format": "₹X/day or $X per use or X% savings",
+        "comparison_text_max_chars": 40,
+        "subheading_max_chars": 50,
+        "emojis_allowed": false
+      },
+      "intended_use": {
+        "slide_types": ["proof", "value", "conversion"],
+        "good_for": ["Price justification", "Cost comparison", "ROI demonstration", "Value framing"],
+        "insight_families": ["value_price", "price_math", "roi_calc"],
+        "pair_with_styles": ["Simple Bold", "Professional Corporate", "Modern Clean", "Dark Dramatic"]
+      },
+      "media_behavior": {
+        "requires_image": false,
+        "stat_prominence": "high",
+        "background_type": "solid_with_accent"
+      }
+    },
+    {
+      "id": "urgency_fomo",
+      "label": "Urgency / FOMO",
+      "description": "Time-limited or scarcity-driven format. Creates urgency to act now.",
+      "hook_patterns": ["limited_drop_fomo", "time_boxed_challenge", "scarcity_signal"],
+      "slots": {
+        "headline": true,
+        "subheading": true,
+        "body_text": false,
+        "bullets": false,
+        "stat_number": true,
+        "quote": false,
+        "person_image": false,
+        "product_image": false,
+        "icons": true,
+        "diagram": false
+      },
+      "constraints": {
+        "headline_max_chars": 35,
+        "headline_max_words": 5,
+        "urgency_format": "X hours left or Only X spots or Ends [date]",
+        "countdown_display": "optional timer visual",
+        "subheading_max_chars": 45,
+        "emojis_allowed": true
+      },
+      "intended_use": {
+        "slide_types": ["urgency", "launch", "promotion"],
+        "good_for": ["Flash sales", "Limited launches", "Countdown campaigns", "Deadline-driven offers"],
+        "insight_families": ["intent_signals", "deal_offer", "scarcity_signal"],
+        "pair_with_styles": ["Simple Bold", "Dark Dramatic", "Playful Colorful", "Modern Clean"]
+      },
+      "media_behavior": {
+        "requires_image": false,
+        "icon_type": "clock_or_alarm",
+        "background_type": "high_energy"
+      }
+    },
+    {
+      "id": "x_vs_y",
+      "label": "X vs Y Compare",
+      "description": "Direct head-to-head comparison. Fast visual compare format.",
+      "hook_patterns": ["x_vs_y", "comparisons", "switching_drivers"],
+      "slots": {
+        "headline": true,
+        "subheading": false,
+        "body_text": false,
+        "bullets": true,
+        "stat_number": false,
+        "quote": false,
+        "person_image": false,
+        "product_image": true,
+        "icons": true,
+        "diagram": false
+      },
+      "constraints": {
+        "headline_max_chars": 20,
+        "headline_format": "X vs Y",
+        "option_a_label_max_chars": 15,
+        "option_b_label_max_chars": 15,
+        "comparison_points": 3,
+        "point_max_chars": 20,
+        "winner_highlight": "optional checkmark on winner",
+        "emojis_allowed": true
+      },
+      "intended_use": {
+        "slide_types": ["comparison", "decision", "education"],
+        "good_for": ["Product comparisons", "Ingredient face-offs", "Feature battles", "Quick decisions"],
+        "insight_families": ["comparisons", "alternatives", "switching_drivers"],
+        "pair_with_styles": ["Modern Clean", "Simple Bold", "Professional Corporate", "Tech Futuristic"]
+      },
+      "media_behavior": {
+        "requires_image": "optional_product_shots",
+        "layout": "side_by_side_with_vs",
+        "divider": "VS badge or line"
+      }
+    },
+    {
+      "id": "founder_confession",
+      "label": "Founder Confession",
+      "description": "Personal, honest message from founder. Anti-ad authenticity format.",
+      "hook_patterns": ["founder_confession", "anti_ad", "contrarian_take"],
+      "slots": {
+        "headline": true,
+        "subheading": false,
+        "body_text": true,
+        "bullets": false,
+        "stat_number": false,
+        "quote": false,
+        "person_image": true,
+        "product_image": false,
+        "icons": false,
+        "diagram": false
+      },
+      "constraints": {
+        "headline_max_chars": 35,
+        "headline_max_words": 5,
+        "body_max_chars": 150,
+        "body_max_words": 30,
+        "signature_name_max_chars": 25,
+        "signature_role_max_chars": 20,
+        "emojis_allowed": false
+      },
+      "intended_use": {
+        "slide_types": ["trust", "story", "transparency"],
+        "good_for": ["Honest admissions", "Behind-the-scenes", "Why we built this", "Personal stories"],
+        "insight_families": ["founder_confession", "anti_ad", "advocacy_stories"],
+        "pair_with_styles": ["Modern Clean", "Warm Friendly", "Lo-fi Raw", "Editorial Magazine"]
+      },
+      "media_behavior": {
+        "requires_image": true,
+        "image_type": "founder_headshot_or_candid",
+        "image_position": "small_corner_or_beside_signature"
+      }
+    },
+    {
+      "id": "cliffhanger",
+      "label": "Cliffhanger / Open Loop",
+      "description": "Creates curiosity gap. 'Wait for it...' or 'Swipe to see what happened'",
+      "hook_patterns": ["open_loop_tease", "bait_and_switch"],
+      "slots": {
+        "headline": true,
+        "subheading": true,
+        "body_text": false,
+        "bullets": false,
+        "stat_number": false,
+        "quote": false,
+        "person_image": false,
+        "product_image": false,
+        "icons": true,
+        "diagram": false
+      },
+      "constraints": {
+        "headline_max_chars": 35,
+        "headline_max_words": 6,
+        "headline_format": "Wait for slide X... or The result? or But then...",
+        "subheading_max_chars": 40,
+        "swipe_prompt": "→ Swipe to see",
+        "emojis_allowed": true
+      },
+      "intended_use": {
+        "slide_types": ["tension", "transition", "reveal_setup"],
+        "good_for": ["Story progression", "Result teasers", "Transformation reveals", "Engagement drivers"],
+        "insight_families": ["open_loop", "outcome_validation", "before_after"],
+        "pair_with_styles": ["Dark Dramatic", "Modern Clean", "Simple Bold", "Aesthetic Soft"]
+      },
+      "media_behavior": {
+        "requires_image": false,
+        "icon_type": "arrow_or_question_mark",
+        "background_type": "gradient_or_blur"
+      }
+    },
+    {
+      "id": "hero_human",
+      "label": "Hero Human + Headline",
+      "description": "Person photo with headline overlay. Humanizes the message, builds connection.",
+      "hook_patterns": ["tribe_callout", "founder_confession", "social_proof"],
+      "slots": {
+        "headline": true,
+        "subheading": true,
+        "body_text": false,
+        "bullets": false,
+        "stat_number": false,
+        "quote": false,
+        "person_image": true,
+        "product_image": false,
+        "icons": false,
+        "diagram": false
+      },
+      "constraints": {
+        "headline_max_chars": 35,
+        "headline_max_words": 5,
+        "subheading_max_chars": 50,
+        "subheading_max_words": 8,
+        "emojis_allowed": false
+      },
+      "intended_use": {
+        "slide_types": ["hook", "testimonial_intro", "founder_story"],
+        "good_for": ["Personal branding", "Testimonials", "About us", "Team intros"],
+        "insight_families": ["audience_segments", "social_proof"],
+        "pair_with_styles": ["Editorial Magazine", "Elegant Premium", "Modern Clean", "Warm Friendly", "Lo-fi Raw"]
+      },
+      "media_behavior": {
+        "requires_image": true,
+        "image_type": "human_face_or_half_body",
+        "image_position": "left_or_right_third"
+      }
+    },
+    {
+      "id": "product_focus",
+      "label": "Product Focus",
+      "description": "Product or screenshot as hero with supporting text. Showcases what you're selling.",
+      "hook_patterns": ["single_ingredient_shock", "one_change_trick"],
+      "slots": {
+        "headline": true,
+        "subheading": true,
+        "body_text": false,
+        "bullets": false,
+        "stat_number": false,
+        "quote": false,
+        "person_image": false,
+        "product_image": true,
+        "icons": false,
+        "diagram": false
+      },
+      "constraints": {
+        "headline_max_chars": 30,
+        "headline_max_words": 4,
+        "subheading_max_chars": 60,
+        "subheading_max_words": 10,
+        "micro_labels_max": 3,
+        "micro_label_max_chars": 15,
+        "emojis_allowed": false
+      },
+      "intended_use": {
+        "slide_types": ["feature_highlight", "product_showcase", "demo_preview"],
+        "good_for": ["SaaS screenshots", "Physical products", "App interfaces", "Feature spotlights"],
+        "insight_families": ["performance_fit", "ingredient_tech"],
+        "pair_with_styles": ["Tech Futuristic", "Modern Clean", "Minimalist", "Professional Corporate"]
+      },
+      "media_behavior": {
+        "requires_image": true,
+        "image_type": "product_or_screenshot",
+        "image_position": "center_or_offset"
+      }
+    },
+    {
+      "id": "bullet_list",
+      "label": "Bullet List",
+      "description": "Headline with 3-4 bullet points. Classic information delivery format.",
+      "hook_patterns": ["insider_secret", "one_change_trick"],
+      "slots": {
+        "headline": true,
+        "subheading": false,
+        "body_text": false,
+        "bullets": true,
+        "stat_number": false,
+        "quote": false,
+        "person_image": false,
+        "product_image": false,
+        "icons": false,
+        "diagram": false
+      },
+      "constraints": {
+        "headline_max_chars": 35,
+        "headline_max_words": 5,
+        "bullets_min": 3,
+        "bullets_max": 4,
+        "bullet_max_chars": 40,
+        "bullet_max_words": 7,
+        "emojis_allowed": true
+      },
+      "intended_use": {
+        "slide_types": ["content", "education", "benefits"],
+        "good_for": ["Feature lists", "Benefits", "Tips", "Key points", "How-to steps"],
+        "insight_families": ["routines_behavior", "knowledge_myths"],
+        "pair_with_styles": ["Modern Clean", "Minimalist", "Professional Corporate", "Simple Bold"]
+      },
+      "media_behavior": {
+        "requires_image": false,
+        "background_type": "solid_color"
+      }
+    },
+    {
+      "id": "icon_bullets",
+      "label": "Icon + Bullets",
+      "description": "Icons paired with bullet points. Visual anchors make content scannable.",
+      "hook_patterns": ["insider_secret", "checklist"],
+      "slots": {
+        "headline": true,
+        "subheading": false,
+        "body_text": false,
+        "bullets": true,
+        "stat_number": false,
+        "quote": false,
+        "person_image": false,
+        "product_image": false,
+        "icons": true,
+        "diagram": false
+      },
+      "constraints": {
+        "headline_max_chars": 30,
+        "headline_max_words": 4,
+        "bullets_min": 3,
+        "bullets_max": 4,
+        "bullet_max_chars": 35,
+        "bullet_max_words": 6,
+        "icons_per_bullet": 1,
+        "icon_style": "simple_line_or_filled",
+        "emojis_allowed": false
+      },
+      "intended_use": {
+        "slide_types": ["content", "features", "benefits"],
+        "good_for": ["Feature breakdowns", "Service offerings", "Process overview", "Benefits with visual anchors"],
+        "insight_families": ["routines_behavior", "performance_fit"],
+        "pair_with_styles": ["Modern Clean", "Professional Corporate", "Soft Organic", "Tech Futuristic"]
+      },
+      "media_behavior": {
+        "requires_image": false,
+        "icon_count": "3_to_4",
+        "icon_position": "left_of_each_bullet"
+      }
+    },
+    {
+      "id": "big_stat",
+      "label": "Big Stat",
+      "description": "One massive number with context. Data that demands attention.",
+      "hook_patterns": ["surprising_stat", "social_proof_stack", "time_boxed"],
+      "slots": {
+        "headline": false,
+        "subheading": true,
+        "body_text": false,
+        "bullets": false,
+        "stat_number": true,
+        "quote": false,
+        "person_image": false,
+        "product_image": false,
+        "icons": false,
+        "diagram": false
+      },
+      "constraints": {
+        "stat_max_chars": 10,
+        "stat_format": "number_with_unit (e.g., 10M+, 99%, $2.5B, 14 days)",
+        "subheading_max_chars": 50,
+        "subheading_max_words": 8,
+        "context_label_max_chars": 25,
+        "emojis_allowed": false
+      },
+      "intended_use": {
+        "slide_types": ["proof", "impact", "results"],
+        "good_for": ["Social proof", "Results/outcomes", "Growth metrics", "Impact statements", "Time-to-result"],
+        "insight_families": ["outcome_validation", "social_proof", "benchmark_metrics"],
+        "pair_with_styles": ["Simple Bold", "Dark Dramatic", "Professional Corporate", "Modern Clean"]
+      },
+      "media_behavior": {
+        "requires_image": false,
+        "background_type": "solid_or_subtle_gradient"
+      }
+    },
+    {
+      "id": "quote_card",
+      "label": "Quote Card",
+      "description": "Testimonial or quote with attribution. Social proof through voice.",
+      "hook_patterns": ["social_proof_stack", "expert_quotes"],
+      "slots": {
+        "headline": false,
+        "subheading": false,
+        "body_text": false,
+        "bullets": false,
+        "stat_number": false,
+        "quote": true,
+        "person_image": true,
+        "product_image": false,
+        "icons": false,
+        "diagram": false
+      },
+      "constraints": {
+        "quote_max_chars": 120,
+        "quote_max_words": 25,
+        "attribution_name_max_chars": 25,
+        "attribution_role_max_chars": 30,
+        "emojis_allowed": false
+      },
+      "intended_use": {
+        "slide_types": ["testimonial", "proof", "authority"],
+        "good_for": ["Customer testimonials", "Expert quotes", "Team quotes", "Review highlights"],
+        "insight_families": ["social_proof", "expert_quotes", "outcome_validation"],
+        "pair_with_styles": ["Elegant Premium", "Modern Clean", "Soft Organic", "Editorial Magazine", "Lo-fi Raw"]
+      },
+      "media_behavior": {
+        "requires_image": "optional",
+        "image_type": "small_avatar_or_headshot",
+        "image_position": "beside_attribution"
+      }
+    },
+    {
+      "id": "before_after",
+      "label": "Before / After",
+      "description": "Two-state comparison showing transformation. Classic persuasion pattern.",
+      "hook_patterns": ["before_after", "one_change_trick", "time_boxed"],
+      "slots": {
+        "headline": true,
+        "subheading": false,
+        "body_text": false,
+        "bullets": false,
+        "stat_number": false,
+        "quote": false,
+        "person_image": false,
+        "product_image": false,
+        "icons": false,
+        "diagram": false
+      },
+      "constraints": {
+        "headline_max_chars": 25,
+        "headline_max_words": 4,
+        "before_label": "BEFORE or OLD WAY or WITHOUT",
+        "after_label": "AFTER or NEW WAY or WITH",
+        "comparison_points_min": 2,
+        "comparison_points_max": 4,
+        "point_max_chars": 25,
+        "point_max_words": 4,
+        "emojis_allowed": true
+      },
+      "intended_use": {
+        "slide_types": ["transformation", "comparison", "results"],
+        "good_for": ["Problem/solution", "Old way/new way", "Without us/with us", "Pain point resolution"],
+        "insight_families": ["outcome_validation", "before_after", "pain_problem"],
+        "pair_with_styles": ["Simple Bold", "Modern Clean", "Professional Corporate", "Playful Colorful"]
+      },
+      "media_behavior": {
+        "requires_image": false,
+        "layout": "two_columns_or_stacked"
+      }
+    },
+    {
+      "id": "process_steps",
+      "label": "Process Steps",
+      "description": "Sequential steps showing a flow. How things work, step by step.",
+      "hook_patterns": ["insider_secret", "one_change_trick"],
+      "slots": {
+        "headline": true,
+        "subheading": false,
+        "body_text": false,
+        "bullets": false,
+        "stat_number": false,
+        "quote": false,
+        "person_image": false,
+        "product_image": false,
+        "icons": true,
+        "diagram": true
+      },
+      "constraints": {
+        "headline_max_chars": 30,
+        "headline_max_words": 4,
+        "steps_min": 3,
+        "steps_max": 5,
+        "step_label_max_chars": 20,
+        "step_label_max_words": 3,
+        "step_numbering": "1, 2, 3 or arrows",
+        "emojis_allowed": false
+      },
+      "intended_use": {
+        "slide_types": ["how_it_works", "education", "onboarding"],
+        "good_for": ["How it works", "Getting started", "Simple processes", "User journey"],
+        "insight_families": ["routines_behavior", "tutorial_steps"],
+        "pair_with_styles": ["Modern Clean", "Professional Corporate", "Tech Futuristic", "Minimalist"]
+      },
+      "media_behavior": {
+        "requires_image": false,
+        "diagram_type": "horizontal_or_vertical_flow",
+        "connector_style": "arrows_or_lines"
+      }
+    },
+    {
+      "id": "checklist",
+      "label": "Checklist",
+      "description": "Checkmark items showing completeness. Satisfying task-completion format.",
+      "hook_patterns": ["checklist", "social_proof_stack"],
+      "slots": {
+        "headline": true,
+        "subheading": false,
+        "body_text": false,
+        "bullets": true,
+        "stat_number": false,
+        "quote": false,
+        "person_image": false,
+        "product_image": false,
+        "icons": true,
+        "diagram": false
+      },
+      "constraints": {
+        "headline_max_chars": 30,
+        "headline_max_words": 4,
+        "items_min": 4,
+        "items_max": 6,
+        "item_max_chars": 30,
+        "item_max_words": 5,
+        "checkmark_style": "✓ or ☑ or custom",
+        "emojis_allowed": true
+      },
+      "intended_use": {
+        "slide_types": ["checklist", "requirements", "features"],
+        "good_for": ["What's included", "Requirements met", "Feature checklists", "Qualification lists"],
+        "insight_families": ["routines_behavior", "performance_fit"],
+        "pair_with_styles": ["Modern Clean", "Simple Bold", "Playful Colorful", "Professional Corporate"]
+      },
+      "media_behavior": {
+        "requires_image": false,
+        "icon_type": "checkmarks"
+      }
+    },
+    {
+      "id": "numbered_list",
+      "label": "Numbered List",
+      "description": "Ordered list with prominent numbers. When sequence matters.",
+      "hook_patterns": ["listicle", "insider_secret"],
+      "slots": {
+        "headline": true,
+        "subheading": false,
+        "body_text": false,
+        "bullets": true,
+        "stat_number": false,
+        "quote": false,
+        "person_image": false,
+        "product_image": false,
+        "icons": false,
+        "diagram": false
+      },
+      "constraints": {
+        "headline_max_chars": 30,
+        "headline_max_words": 4,
+        "items_min": 3,
+        "items_max": 5,
+        "item_max_chars": 35,
+        "item_max_words": 6,
+        "number_style": "large_circled_or_bold",
+        "emojis_allowed": false
+      },
+      "intended_use": {
+        "slide_types": ["listicle", "ranking", "tips"],
+        "good_for": ["Top X lists", "Ranked items", "Priority order", "Step sequences"],
+        "insight_families": ["knowledge_myths", "routines_behavior"],
+        "pair_with_styles": ["Modern Clean", "Bold Typography", "Simple Bold", "Editorial Magazine"]
+      },
+      "media_behavior": {
+        "requires_image": false,
+        "number_prominence": "high"
+      }
+    },
+    {
+      "id": "tip_card",
+      "label": "Tip Card",
+      "description": "Single focused tip or insight. One idea, maximum clarity.",
+      "hook_patterns": ["one_change_trick", "insider_secret"],
+      "slots": {
+        "headline": true,
+        "subheading": true,
+        "body_text": false,
+        "bullets": false,
+        "stat_number": false,
+        "quote": false,
+        "person_image": false,
+        "product_image": false,
+        "icons": true,
+        "diagram": false
+      },
+      "constraints": {
+        "headline_max_chars": 35,
+        "headline_max_words": 5,
+        "subheading_max_chars": 80,
+        "subheading_max_words": 15,
+        "tip_label": "💡 TIP or PRO TIP or similar",
+        "emojis_allowed": true
+      },
+      "intended_use": {
+        "slide_types": ["tip", "insight", "advice"],
+        "good_for": ["Pro tips", "Quick wins", "Expert advice", "Did you know"],
+        "insight_families": ["hacks_shortcuts", "one_change_proof"],
+        "pair_with_styles": ["Modern Clean", "Warm Friendly", "Aesthetic Soft", "Playful Colorful"]
+      },
+      "media_behavior": {
+        "requires_image": false,
+        "icon_type": "lightbulb_or_star",
+        "background_type": "subtle_highlight"
+      }
+    },
+    {
+      "id": "cta_simple",
+      "label": "CTA Simple",
+      "description": "Clear call-to-action slide. The closer. What to do next.",
+      "hook_patterns": ["time_boxed", "limited_drop_fomo"],
+      "slots": {
+        "headline": true,
+        "subheading": true,
+        "body_text": false,
+        "bullets": false,
+        "stat_number": false,
+        "quote": false,
+        "person_image": false,
+        "product_image": false,
+        "icons": true,
+        "diagram": false
+      },
+      "constraints": {
+        "headline_max_chars": 30,
+        "headline_max_words": 4,
+        "subheading_max_chars": 40,
+        "subheading_max_words": 6,
+        "cta_button_text_max_chars": 20,
+        "handle_max_chars": 20,
+        "emojis_allowed": true
+      },
+      "intended_use": {
+        "slide_types": ["cta", "closing", "follow"],
+        "good_for": ["Final slide", "Follow CTA", "Link in bio prompt", "Next step"],
+        "insight_families": ["intent_signals", "journey_stage"],
+        "pair_with_styles": ["Modern Clean", "Simple Bold", "Aesthetic Soft", "Warm Friendly"]
+      },
+      "media_behavior": {
+        "requires_image": false,
+        "icon_type": "arrow_or_pointer",
+        "background_type": "brand_color_or_gradient"
+      }
+    },
+    {
+      "id": "single_icon_message",
+      "label": "Single Icon + Message",
+      "description": "One large icon with a single message. Simple visual anchor.",
+      "hook_patterns": ["one_change_trick", "single_ingredient"],
+      "slots": {
+        "headline": true,
+        "subheading": true,
+        "body_text": false,
+        "bullets": false,
+        "stat_number": false,
+        "quote": false,
+        "person_image": false,
+        "product_image": false,
+        "icons": true,
+        "diagram": false
+      },
+      "constraints": {
+        "headline_max_chars": 25,
+        "headline_max_words": 4,
+        "subheading_max_chars": 50,
+        "subheading_max_words": 8,
+        "icon_count": 1,
+        "icon_size": "large_prominent",
+        "emojis_allowed": false
+      },
+      "intended_use": {
+        "slide_types": ["content", "concept", "feature"],
+        "good_for": ["Single concept", "One feature", "Key benefit", "Topic intro"],
+        "insight_families": ["ingredient_tech", "one_change_proof"],
+        "pair_with_styles": ["Minimalist", "Modern Clean", "Soft Organic", "Tech Futuristic"]
+      },
+      "media_behavior": {
+        "requires_image": false,
+        "icon_position": "top_center_or_left",
+        "icon_style": "simple_clean"
+      }
+    }
+  ],
+  "element_packs": {
+    "description": "Pre-built combinations for common carousel types aligned with hook patterns",
+    "packs": [
+      {
+        "pack_id": "myth_buster_5_slide",
+        "pack_name": "Myth Buster Carousel",
+        "description": "Correct misconceptions with authority",
+        "hook_pattern_primary": "myth_bust",
+        "slide_sequence": [
+          {"slide": 1, "element": "myth_bust", "purpose": "Myth vs Truth hook"},
+          {"slide": 2, "element": "bullet_list", "purpose": "Why this matters"},
+          {"slide": 3, "element": "secret_reveal", "purpose": "The insider truth"},
+          {"slide": 4, "element": "big_stat", "purpose": "Proof point"},
+          {"slide": 5, "element": "cta_simple", "purpose": "Learn more CTA"}
+        ],
+        "good_for": ["Educational content", "Authority building", "Expert positioning"]
+      },
+      {
+        "pack_id": "stop_mistake_5_slide",
+        "pack_name": "Stop Making This Mistake",
+        "description": "Negative hook that converts through pain",
+        "hook_pattern_primary": "stop_doing_this",
+        "slide_sequence": [
+          {"slide": 1, "element": "stop_doing", "purpose": "STOP hook"},
+          {"slide": 2, "element": "bullet_list", "purpose": "Why it's hurting you"},
+          {"slide": 3, "element": "before_after", "purpose": "Wrong vs Right"},
+          {"slide": 4, "element": "tip_card", "purpose": "What to do instead"},
+          {"slide": 5, "element": "cta_simple", "purpose": "Fix it now CTA"}
+        ],
+        "good_for": ["Pain-focused content", "Behavior change", "Educational hooks"]
+      },
+      {
+        "pack_id": "insider_secret_5_slide",
+        "pack_name": "Insider Secret Reveal",
+        "description": "Exclusive knowledge positioning",
+        "hook_pattern_primary": "insider_secret",
+        "slide_sequence": [
+          {"slide": 1, "element": "secret_reveal", "purpose": "The secret hook"},
+          {"slide": 2, "element": "cliffhanger", "purpose": "Build tension"},
+          {"slide": 3, "element": "bullet_list", "purpose": "The reveal"},
+          {"slide": 4, "element": "big_stat", "purpose": "Proof it works"},
+          {"slide": 5, "element": "cta_simple", "purpose": "Get the secret CTA"}
+        ],
+        "good_for": ["Exclusive content", "Lead magnets", "High-value tips"]
+      },
+      {
+        "pack_id": "tribe_specific_5_slide",
+        "pack_name": "For [Tribe] Only",
+        "description": "Niche-targeted carousel",
+        "hook_pattern_primary": "tribe_callout",
+        "slide_sequence": [
+          {"slide": 1, "element": "tribe_callout", "purpose": "For [tribe] hook"},
+          {"slide": 2, "element": "bullet_list", "purpose": "Your specific problems"},
+          {"slide": 3, "element": "bullet_list", "purpose": "Our specific solutions"},
+          {"slide": 4, "element": "quote_card", "purpose": "Tribe member testimonial"},
+          {"slide": 5, "element": "cta_simple", "purpose": "Join the tribe CTA"}
+        ],
+        "good_for": ["Niche marketing", "Community building", "Segment targeting"]
+      },
+      {
+        "pack_id": "price_value_5_slide",
+        "pack_name": "Price Math Carousel",
+        "description": "Value justification through numbers",
+        "hook_pattern_primary": "price_math_flip",
+        "slide_sequence": [
+          {"slide": 1, "element": "price_value", "purpose": "Price hook (₹X/day)"},
+          {"slide": 2, "element": "x_vs_y", "purpose": "Us vs alternatives"},
+          {"slide": 3, "element": "checklist", "purpose": "What you get"},
+          {"slide": 4, "element": "quote_card", "purpose": "Worth it testimonial"},
+          {"slide": 5, "element": "urgency_fomo", "purpose": "Limited time CTA"}
+        ],
+        "good_for": ["Price objection handling", "Value selling", "Conversion focus"]
+      },
+      {
+        "pack_id": "fomo_launch_5_slide",
+        "pack_name": "FOMO Launch Carousel",
+        "description": "Urgency-driven launch or promo",
+        "hook_pattern_primary": "limited_drop_fomo",
+        "slide_sequence": [
+          {"slide": 1, "element": "urgency_fomo", "purpose": "Limited time hook"},
+          {"slide": 2, "element": "product_focus", "purpose": "What you get"},
+          {"slide": 3, "element": "checklist", "purpose": "What's included"},
+          {"slide": 4, "element": "big_stat", "purpose": "Social proof"},
+          {"slide": 5, "element": "urgency_fomo", "purpose": "Act now CTA"}
+        ],
+        "good_for": ["Product launches", "Flash sales", "Limited editions"]
+      },
+      {
+        "pack_id": "x_vs_y_5_slide",
+        "pack_name": "X vs Y Comparison",
+        "description": "Head-to-head product/method comparison",
+        "hook_pattern_primary": "x_vs_y",
+        "slide_sequence": [
+          {"slide": 1, "element": "hero_headline", "purpose": "X vs Y hook"},
+          {"slide": 2, "element": "x_vs_y", "purpose": "Side by side compare"},
+          {"slide": 3, "element": "bullet_list", "purpose": "Winner breakdown"},
+          {"slide": 4, "element": "big_stat", "purpose": "Proof point"},
+          {"slide": 5, "element": "cta_simple", "purpose": "Try the winner CTA"}
+        ],
+        "good_for": ["Competitive content", "Decision helpers", "Ingredient comparisons"]
+      },
+      {
+        "pack_id": "founder_story_5_slide",
+        "pack_name": "Founder Story / Anti-Ad",
+        "description": "Authentic confession-style content",
+        "hook_pattern_primary": "founder_confession",
+        "slide_sequence": [
+          {"slide": 1, "element": "founder_confession", "purpose": "Honest hook"},
+          {"slide": 2, "element": "before_after", "purpose": "Our journey"},
+          {"slide": 3, "element": "bullet_list", "purpose": "What we learned"},
+          {"slide": 4, "element": "quote_card", "purpose": "Customer validation"},
+          {"slide": 5, "element": "cta_simple", "purpose": "Join us CTA"}
+        ],
+        "good_for": ["Brand building", "Trust content", "Behind the scenes"]
+      },
+      {
+        "pack_id": "educational_5_slide",
+        "pack_name": "Educational Carousel",
+        "description": "Classic educational content format - hook, teach, close",
+        "hook_pattern_primary": "insider_secret",
+        "slide_sequence": [
+          {"slide": 1, "element": "hero_headline", "purpose": "Hook with bold statement"},
+          {"slide": 2, "element": "bullet_list", "purpose": "Key points"},
+          {"slide": 3, "element": "bullet_list", "purpose": "More key points"},
+          {"slide": 4, "element": "tip_card", "purpose": "Pro tip or insight"},
+          {"slide": 5, "element": "cta_simple", "purpose": "Follow/save CTA"}
+        ],
+        "good_for": ["Tips content", "How-to guides", "Educational threads"]
+      },
+      {
+        "pack_id": "social_proof_5_slide",
+        "pack_name": "Social Proof Carousel",
+        "description": "Build trust through proof and testimonials",
+        "hook_pattern_primary": "social_proof_stack",
+        "slide_sequence": [
+          {"slide": 1, "element": "hero_headline", "purpose": "Bold claim"},
+          {"slide": 2, "element": "big_stat", "purpose": "Impressive number"},
+          {"slide": 3, "element": "quote_card", "purpose": "Customer testimonial"},
+          {"slide": 4, "element": "checklist", "purpose": "What's included"},
+          {"slide": 5, "element": "cta_simple", "purpose": "Get started CTA"}
+        ],
+        "good_for": ["Product launches", "Case studies", "Trust building"]
+      },
+      {
+        "pack_id": "problem_solution_5_slide",
+        "pack_name": "Problem → Solution Carousel",
+        "description": "Classic pain point to solution narrative",
+        "hook_pattern_primary": "stop_doing_this",
+        "slide_sequence": [
+          {"slide": 1, "element": "stop_doing", "purpose": "Pain point hook"},
+          {"slide": 2, "element": "before_after", "purpose": "Show the contrast"},
+          {"slide": 3, "element": "bullet_list", "purpose": "How we solve it"},
+          {"slide": 4, "element": "big_stat", "purpose": "Results proof"},
+          {"slide": 5, "element": "cta_simple", "purpose": "Start now CTA"}
+        ],
+        "good_for": ["SaaS marketing", "Service offerings", "Transformation stories"]
+      }
+    ]
+  },
+  "hook_pattern_reference": {
+    "description": "Mapping of hook patterns to their best element matches",
+    "patterns": {
+      "myth_bust": {"elements": ["myth_bust", "before_after"], "insight_families": ["knowledge_myths", "pain_problem"]},
+      "stop_doing_this": {"elements": ["stop_doing", "before_after"], "insight_families": ["pain_problem", "mistakes_patterns"]},
+      "insider_secret": {"elements": ["secret_reveal", "tip_card", "bullet_list"], "insight_families": ["knowledge_myths", "hacks_shortcuts"]},
+      "one_change_trick": {"elements": ["tip_card", "single_icon_message", "before_after"], "insight_families": ["one_change_proof", "hacks_shortcuts"]},
+      "time_boxed_challenge": {"elements": ["urgency_fomo", "big_stat", "cta_simple"], "insight_families": ["intent_signals", "seasonality"]},
+      "single_ingredient_shock": {"elements": ["product_focus", "single_icon_message", "myth_bust"], "insight_families": ["ingredient_tech", "knowledge_myths"]},
+      "price_math_flip": {"elements": ["price_value", "x_vs_y", "big_stat"], "insight_families": ["value_price", "roi_calc"]},
+      "social_proof_stack": {"elements": ["big_stat", "quote_card", "checklist"], "insight_families": ["social_proof", "outcome_validation"]},
+      "tribe_callout": {"elements": ["tribe_callout", "hero_headline", "hero_human"], "insight_families": ["audience_segments", "tribe_identity"]},
+      "contrarian_take": {"elements": ["myth_bust", "hero_headline", "founder_confession"], "insight_families": ["knowledge_myths", "contrarian_takes"]},
+      "limited_drop_fomo": {"elements": ["urgency_fomo", "cta_simple"], "insight_families": ["deal_offer", "scarcity_signal"]},
+      "x_vs_y": {"elements": ["x_vs_y", "before_after"], "insight_families": ["comparisons", "alternatives"]},
+      "founder_confession": {"elements": ["founder_confession", "hero_human", "quote_card"], "insight_families": ["founder_confession", "anti_ad"]},
+      "open_loop_tease": {"elements": ["cliffhanger", "hero_headline"], "insight_families": ["open_loop", "outcome_validation"]}
+    }
+  }
+}
+

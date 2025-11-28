@@ -1,0 +1,13 @@
+{
+  "prompt": "Create a horizontal strip showing 5 Instagram carousel slides side by side.\n\nINDUSTRY: Apparel & Fashion (DTC)\nTONE: aspirational, trend-aware, identity-driven\nPACK: For [Tribe] Only\n\nSTYLE: EDITORIAL MAGAZINE\n- Visual: High-fashion layout, asymmetric grid, sophisticated\n- Colors: Black, white, one accent color\n- Typography: Elegant serif headlines\n\nSLIDE STRUCTURE:\nSlide 1: [TRIBE_CALLOUT] For [tribe] hook, Slide 2: [BULLET_LIST] Your specific problems, Slide 3: [BULLET_LIST] Our specific solutions, Slide 4: [QUOTE_CARD] Tribe member testimonial, Slide 5: [CTA_SIMPLE] Join the tribe CTA\n\nCONTENT GUIDANCE:\n- Target audience example: \"Sneakerheads\"\n- Pain point example: \"Nothing fits right\"\n- Stat example: \"50K+ happy customers\"\n- CTA example: \"Shop the look\"\n\nDESIGN PRINCIPLES:\n1. MESSAGE FIRST - Text must be instantly readable\n2. Clean layouts with generous breathing room\n3. Limited color palette (2-3 colors max)\n4. Consistent visual language across all 5 slides\n5. Typography-driven, not decoration-driven\n6. NO busy backgrounds or overwhelming patterns\n\nKeep text large and clear. Make it scroll-stopping.",
+  "enhanced_prompt": "Create a horizontal strip showing 5 Instagram carousel slides side by side.\n\nINDUSTRY: Apparel & Fashion (DTC)\nTONE: aspirational, trend-aware, identity-driven\nPACK: For [Tribe] Only\n\nSTYLE: EDITORIAL MAGAZINE\n- Visual: High-fashion layout, asymmetric grid, sophisticated\n- Colors: Black, white, one accent color\n- Typography: Elegant serif headlines\n\nSLIDE STRUCTURE:\nSlide 1: [TRIBE_CALLOUT] For [tribe] hook, Slide 2: [BULLET_LIST] Your specific problems, Slide 3: [BULLET_LIST] Our specific solutions, Slide 4: [QUOTE_CARD] Tribe member testimonial, Slide 5: [CTA_SIMPLE] Join the tribe CTA\n\nCONTENT GUIDANCE:\n- Target audience example: \"Sneakerheads\"\n- Pain point example: \"Nothing fits right\"\n- Stat example: \"50K+ happy customers\"\n- CTA example: \"Shop the look\"\n\nDESIGN PRINCIPLES:\n1. MESSAGE FIRST - Text must be instantly readable\n2. Clean layouts with generous breathing room\n3. Limited color palette (2-3 colors max)\n4. Consistent visual language across all 5 slides\n5. Typography-driven, not decoration-driven\n6. NO busy backgrounds or overwhelming patterns\n\nKeep text large and clear. Make it scroll-stopping., high quality, 1024x1024 resolution",
+  "style": null,
+  "resolution": "1024x1024",
+  "num_images_generated": 1,
+  "saved_paths": [
+    "/Users/muralisid/github/static_files/images/carousel/code/../output/001_apparel_fashion_tribe_specific_5_slide_editorial_magazine.png"
+  ],
+  "text_response": null,
+  "timestamp": "2025-11-26T22:39:14.045874",
+  "success": true
+}

@@ -1,0 +1,48 @@
+# API Keys and Environment Variables
+.env
+.env.local
+*.key
+
+# Generated Images
+generated_images/
+outputs/
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+
+# Exception: Track reference_personas images
+!reference_personas/*.jpg
+!reference_personas/*.png
+
+# Exception: Track reference_styles and modified_styles images
+!reference_styles/*.png
+!modified_styles/*.png
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+

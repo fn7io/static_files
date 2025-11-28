@@ -1,0 +1,1444 @@
+🚀 Persona Image Generator
+======================================================================
+📊 Total personas to process: 243
+✅ Already processed: 5
+🔄 Remaining to process: 238
+
+⚡ Generating continuously with no delays
+======================================================================
+
+[1/238] Generating: Mateo Rivera
+  📝 Role: Brand Ambassador
+  🏢 Industry: Athleisure & Activewear
+  📁 File: dtc_athleisureactivewear_mateo.jpg
+  ✅ Image saved to: reference_personas/dtc_athleisureactivewear_mateo.jpg
+
+[2/238] Generating: Jordan Popov
+  📝 Role: Brand Ambassador
+  🏢 Industry: Athleisure & Activewear
+  📁 File: dtc_athleisureactivewear_jordan.jpg
+  ✅ Image saved to: reference_personas/dtc_athleisureactivewear_jordan.jpg
+
+[3/238] Generating: Alex Kim
+  📝 Role: Creative Director
+  🏢 Industry: Intimates & Basics
+  📁 File: dtc_intimatesbasics_alex.jpg
+  ✅ Image saved to: reference_personas/dtc_intimatesbasics_alex.jpg
+
+[4/238] Generating: Riley Garcia
+  📝 Role: Creative Director
+  🏢 Industry: Intimates & Basics
+  📁 File: dtc_intimatesbasics_riley.jpg
+  ✅ Image saved to: reference_personas/dtc_intimatesbasics_riley.jpg
+
+[5/238] Generating: Olivia Lee
+  📝 Role: Influencer
+  🏢 Industry: Intimates & Basics
+  📁 File: dtc_intimatesbasics_olivia.jpg
+  ✅ Image saved to: reference_personas/dtc_intimatesbasics_olivia.jpg
+
+[6/238] Generating: Alex Rivera
+  📝 Role: Brand Ambassador
+  🏢 Industry: Intimates & Basics
+  📁 File: dtc_intimatesbasics_alex.jpg
+  ✅ Image saved to: reference_personas/dtc_intimatesbasics_alex.jpg
+
+[7/238] Generating: Olivia Patel
+  📝 Role: Founder
+  🏢 Industry: Sustainable Fashion
+  📁 File: dtc_sustainablefashion_olivia.jpg
+  ✅ Image saved to: reference_personas/dtc_sustainablefashion_olivia.jpg
+
+[8/238] Generating: Sofia Muller
+  📝 Role: Influencer
+  🏢 Industry: Sustainable Fashion
+  📁 File: dtc_sustainablefashion_sofia.jpg
+  ✅ Image saved to: reference_personas/dtc_sustainablefashion_sofia.jpg
+
+[9/238] Generating: Zoe Muller
+  📝 Role: Creative Director
+  🏢 Industry: Sustainable Fashion
+  📁 File: dtc_sustainablefashion_zoe.jpg
+  ✅ Image saved to: reference_personas/dtc_sustainablefashion_zoe.jpg
+
+[10/238] Generating: Mia Johnson
+  📝 Role: Brand Ambassador
+  🏢 Industry: Sustainable Fashion
+  📁 File: dtc_sustainablefashion_mia.jpg
+  ✅ Image saved to: reference_personas/dtc_sustainablefashion_mia.jpg
+
+[11/238] Generating: Quinn Popov
+  📝 Role: Creative Director
+  🏢 Industry: Direct-to-Consumer Footwear
+  📁 File: dtc_direct-to-consumerfootwear_quinn.jpg
+  ✅ Image saved to: reference_personas/dtc_direct-to-consumerfootwear_quinn.jpg
+
+[12/238] Generating: Marcus Cohen
+  📝 Role: Influencer
+  🏢 Industry: Direct-to-Consumer Footwear
+  📁 File: dtc_direct-to-consumerfootwear_marcus.jpg
+  ✅ Image saved to: reference_personas/dtc_direct-to-consumerfootwear_marcus.jpg
+
+[13/238] Generating: Avery Tanaka
+  📝 Role: Influencer
+  🏢 Industry: Direct-to-Consumer Footwear
+  📁 File: dtc_direct-to-consumerfootwear_avery.jpg
+  ✅ Image saved to: reference_personas/dtc_direct-to-consumerfootwear_avery.jpg
+
+[14/238] Generating: Skyler Cohen
+  📝 Role: Founder
+  🏢 Industry: Direct-to-Consumer Footwear
+  📁 File: dtc_direct-to-consumerfootwear_skyler.jpg
+  ✅ Image saved to: reference_personas/dtc_direct-to-consumerfootwear_skyler.jpg
+
+[15/238] Generating: Marcus Chen
+  📝 Role: Founder
+  🏢 Industry: Streetwear
+  📁 File: dtc_streetwear_marcus.jpg
+  ✅ Image saved to: reference_personas/dtc_streetwear_marcus.jpg
+
+[16/238] Generating: Liam Patel
+  📝 Role: Creative Director
+  🏢 Industry: Streetwear
+  📁 File: dtc_streetwear_liam.jpg
+  ✅ Image saved to: reference_personas/dtc_streetwear_liam.jpg
+
+[17/238] Generating: Taylor Mwangi
+  📝 Role: Founder
+  🏢 Industry: Streetwear
+  📁 File: dtc_streetwear_taylor.jpg
+  ✅ Image saved to: reference_personas/dtc_streetwear_taylor.jpg
+
+[18/238] Generating: Kenji Chen
+  📝 Role: Super User
+  🏢 Industry: Streetwear
+  📁 File: dtc_streetwear_kenji.jpg
+  ✅ Image saved to: reference_personas/dtc_streetwear_kenji.jpg
+
+[19/238] Generating: Sarah Novak
+  📝 Role: Brand Ambassador
+  🏢 Industry: Eyewear
+  📁 File: dtc_eyewear_sarah.jpg
+  ✅ Image saved to: reference_personas/dtc_eyewear_sarah.jpg
+
+[20/238] Generating: Elena Smith
+  📝 Role: Influencer
+  🏢 Industry: Eyewear
+  📁 File: dtc_eyewear_elena.jpg
+  ✅ Image saved to: reference_personas/dtc_eyewear_elena.jpg
+
+[21/238] Generating: Olivia Kim
+  📝 Role: Founder
+  🏢 Industry: Eyewear
+  📁 File: dtc_eyewear_olivia.jpg
+  ✅ Image saved to: reference_personas/dtc_eyewear_olivia.jpg
+
+[22/238] Generating: Zoe Lee
+  📝 Role: Creative Director
+  🏢 Industry: Fashion Accessories
+  📁 File: dtc_fashionaccessories_zoe.jpg
+  ✅ Image saved to: reference_personas/dtc_fashionaccessories_zoe.jpg
+
+[23/238] Generating: Sarah Rivera
+  📝 Role: Creative Director
+  🏢 Industry: Fashion Accessories
+  📁 File: dtc_fashionaccessories_sarah.jpg
+  ✅ Image saved to: reference_personas/dtc_fashionaccessories_sarah.jpg
+
+[24/238] Generating: Lucas Kim
+  📝 Role: Influencer
+  🏢 Industry: Fashion Accessories
+  📁 File: dtc_fashionaccessories_lucas.jpg
+  ✅ Image saved to: reference_personas/dtc_fashionaccessories_lucas.jpg
+
+[25/238] Generating: Ethan Rivera
+  📝 Role: Creative Director
+  🏢 Industry: Beauty & Personal Care
+  📁 File: dtc_beautypersonalcare_ethan.jpg
+  ✅ Image saved to: reference_personas/dtc_beautypersonalcare_ethan.jpg
+
+[26/238] Generating: Priya Cohen
+  📝 Role: Founder
+  🏢 Industry: Beauty & Personal Care
+  📁 File: dtc_beautypersonalcare_priya.jpg
+  ✅ Image saved to: reference_personas/dtc_beautypersonalcare_priya.jpg
+
+[27/238] Generating: Kenji Smith
+  📝 Role: Brand Ambassador
+  🏢 Industry: Beauty & Personal Care
+  📁 File: dtc_beautypersonalcare_kenji.jpg
+  ✅ Image saved to: reference_personas/dtc_beautypersonalcare_kenji.jpg
+
+[28/238] Generating: Nadia Chen
+  📝 Role: Super User
+  🏢 Industry: Clean Beauty
+  📁 File: dtc_cleanbeauty_nadia.jpg
+  ✅ Image saved to: reference_personas/dtc_cleanbeauty_nadia.jpg
+
+[29/238] Generating: Alex Smith
+  📝 Role: Founder
+  🏢 Industry: Clean Beauty
+  📁 File: dtc_cleanbeauty_alex.jpg
+  ❌ Error: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+
+[30/238] Generating: Taylor Muller
+  📝 Role: Influencer
+  🏢 Industry: Clean Beauty
+  📁 File: dtc_cleanbeauty_taylor.jpg
+  ❌ Error: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+
+[31/238] Generating: Avery Cohen
+  📝 Role: Influencer
+  🏢 Industry: Personalized Skincare
+  📁 File: dtc_personalizedskincare_avery.jpg
+  ✅ Image saved to: reference_personas/dtc_personalizedskincare_avery.jpg
+
+[32/238] Generating: Noah Lee
+  📝 Role: Creative Director
+  🏢 Industry: Personalized Skincare
+  📁 File: dtc_personalizedskincare_noah.jpg
+  ✅ Image saved to: reference_personas/dtc_personalizedskincare_noah.jpg
+
+[33/238] Generating: Hiro Smith
+  📝 Role: Creative Director
+  🏢 Industry: Personalized Skincare
+  📁 File: dtc_personalizedskincare_hiro.jpg
+  ✅ Image saved to: reference_personas/dtc_personalizedskincare_hiro.jpg
+
+[34/238] Generating: Noah Lee
+  📝 Role: Brand Ambassador
+  🏢 Industry: Personalized Skincare
+  📁 File: dtc_personalizedskincare_noah.jpg
+  ✅ Image saved to: reference_personas/dtc_personalizedskincare_noah.jpg
+
+[35/238] Generating: Sarah Santos
+  📝 Role: Brand Ambassador
+  🏢 Industry: Men's Grooming
+  📁 File: dtc_men'sgrooming_sarah.jpg
+  ✅ Image saved to: reference_personas/dtc_men'sgrooming_sarah.jpg
+
+[36/238] Generating: Olivia Yamamoto
+  📝 Role: Super User
+  🏢 Industry: Men's Grooming
+  📁 File: dtc_men'sgrooming_olivia.jpg
+  ✅ Image saved to: reference_personas/dtc_men'sgrooming_olivia.jpg
+
+[37/238] Generating: Elena Patel
+  📝 Role: Creative Director
+  🏢 Industry: Men's Grooming
+  📁 File: dtc_men'sgrooming_elena.jpg
+  ✅ Image saved to: reference_personas/dtc_men'sgrooming_elena.jpg
+
+[38/238] Generating: Zoe Yamamoto
+  📝 Role: Founder
+  🏢 Industry: Men's Grooming
+  📁 File: dtc_men'sgrooming_zoe.jpg
+  ✅ Image saved to: reference_personas/dtc_men'sgrooming_zoe.jpg
+
+[39/238] Generating: Noah Novak
+  📝 Role: Super User
+  🏢 Industry: Oral Care
+  📁 File: dtc_oralcare_noah.jpg
+  ✅ Image saved to: reference_personas/dtc_oralcare_noah.jpg
+
+[40/238] Generating: Isabella Tanaka
+  📝 Role: Influencer
+  🏢 Industry: Oral Care
+  📁 File: dtc_oralcare_isabella.jpg
+  ❌ Error: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+
+[41/238] Generating: Hiro Garcia
+  📝 Role: Brand Ambassador
+  🏢 Industry: Oral Care
+  📁 File: dtc_oralcare_hiro.jpg
+  ✅ Image saved to: reference_personas/dtc_oralcare_hiro.jpg
+
+[42/238] Generating: Avery Singh
+  📝 Role: Influencer
+  🏢 Industry: Hair Care
+  📁 File: dtc_haircare_avery.jpg
+  ✅ Image saved to: reference_personas/dtc_haircare_avery.jpg
+
+[43/238] Generating: Jamal Cohen
+  📝 Role: Influencer
+  🏢 Industry: Hair Care
+  📁 File: dtc_haircare_jamal.jpg
+  ✅ Image saved to: reference_personas/dtc_haircare_jamal.jpg
+
+[44/238] Generating: Noah Muller
+  📝 Role: Creative Director
+  🏢 Industry: Hair Care
+  📁 File: dtc_haircare_noah.jpg
+  ✅ Image saved to: reference_personas/dtc_haircare_noah.jpg
+
+[45/238] Generating: Taylor Singh
+  📝 Role: Influencer
+  🏢 Industry: Feminine Care
+  📁 File: dtc_femininecare_taylor.jpg
+  ✅ Image saved to: reference_personas/dtc_femininecare_taylor.jpg
+
+[46/238] Generating: Mateo Johnson
+  📝 Role: Founder
+  🏢 Industry: Feminine Care
+  📁 File: dtc_femininecare_mateo.jpg
+  ✅ Image saved to: reference_personas/dtc_femininecare_mateo.jpg
+
+[47/238] Generating: Ethan Garcia
+  📝 Role: Brand Ambassador
+  🏢 Industry: Feminine Care
+  📁 File: dtc_femininecare_ethan.jpg
+  ✅ Image saved to: reference_personas/dtc_femininecare_ethan.jpg
+
+[48/238] Generating: Sarah Chen
+  📝 Role: Influencer
+  🏢 Industry: Feminine Care
+  📁 File: dtc_femininecare_sarah.jpg
+  ✅ Image saved to: reference_personas/dtc_femininecare_sarah.jpg
+
+[49/238] Generating: Quinn Tanaka
+  📝 Role: Creative Director
+  🏢 Industry: Food & Beverage (CPG)
+  📁 File: dtc_foodbeverage(cpg)_quinn.jpg
+  ✅ Image saved to: reference_personas/dtc_foodbeverage(cpg)_quinn.jpg
+
+[50/238] Generating: James Mwangi
+  📝 Role: Influencer
+  🏢 Industry: Food & Beverage (CPG)
+  📁 File: dtc_foodbeverage(cpg)_james.jpg
+  ✅ Image saved to: reference_personas/dtc_foodbeverage(cpg)_james.jpg
+
+[51/238] Generating: Emma Santos
+  📝 Role: Super User
+  🏢 Industry: Food & Beverage (CPG)
+  📁 File: dtc_foodbeverage(cpg)_emma.jpg
+  ✅ Image saved to: reference_personas/dtc_foodbeverage(cpg)_emma.jpg
+
+[52/238] Generating: James Mwangi
+  📝 Role: Creative Director
+  🏢 Industry: Food & Beverage (CPG)
+  📁 File: dtc_foodbeverage(cpg)_james.jpg
+  ✅ Image saved to: reference_personas/dtc_foodbeverage(cpg)_james.jpg
+
+[53/238] Generating: Isabella Garcia
+  📝 Role: Influencer
+  🏢 Industry: Functional Beverages
+  📁 File: dtc_functionalbeverages_isabella.jpg
+  ✅ Image saved to: reference_personas/dtc_functionalbeverages_isabella.jpg
+
+[54/238] Generating: Riley Mwangi
+  📝 Role: Super User
+  🏢 Industry: Functional Beverages
+  📁 File: dtc_functionalbeverages_riley.jpg
+  ✅ Image saved to: reference_personas/dtc_functionalbeverages_riley.jpg
+
+[55/238] Generating: Alex Garcia
+  📝 Role: Brand Ambassador
+  🏢 Industry: Functional Beverages
+  📁 File: dtc_functionalbeverages_alex.jpg
+  ✅ Image saved to: reference_personas/dtc_functionalbeverages_alex.jpg
+
+[56/238] Generating: Fatima Mwangi
+  📝 Role: Creative Director
+  🏢 Industry: Functional Beverages
+  📁 File: dtc_functionalbeverages_fatima.jpg
+  ✅ Image saved to: reference_personas/dtc_functionalbeverages_fatima.jpg
+
+[57/238] Generating: Emma Yamamoto
+  📝 Role: Creative Director
+  🏢 Industry: Meal Kits
+  📁 File: dtc_mealkits_emma.jpg
+  ✅ Image saved to: reference_personas/dtc_mealkits_emma.jpg
+
+[58/238] Generating: Taylor Chen
+  📝 Role: Super User
+  🏢 Industry: Meal Kits
+  📁 File: dtc_mealkits_taylor.jpg
+  ✅ Image saved to: reference_personas/dtc_mealkits_taylor.jpg
+
+[59/238] Generating: Nadia Muller
+  📝 Role: Super User
+  🏢 Industry: Meal Kits
+  📁 File: dtc_mealkits_nadia.jpg
+  ✅ Image saved to: reference_personas/dtc_mealkits_nadia.jpg
+
+[60/238] Generating: Sofia Novak
+  📝 Role: Influencer
+  🏢 Industry: Meal Kits
+  📁 File: dtc_mealkits_sofia.jpg
+  ✅ Image saved to: reference_personas/dtc_mealkits_sofia.jpg
+
+[61/238] Generating: Fatima Singh
+  📝 Role: Creative Director
+  🏢 Industry: Plant-Based Alternatives
+  📁 File: dtc_plant-basedalternatives_fatima.jpg
+  ✅ Image saved to: reference_personas/dtc_plant-basedalternatives_fatima.jpg
+
+[62/238] Generating: Hiro Novak
+  📝 Role: Influencer
+  🏢 Industry: Plant-Based Alternatives
+  📁 File: dtc_plant-basedalternatives_hiro.jpg
+  ✅ Image saved to: reference_personas/dtc_plant-basedalternatives_hiro.jpg
+
+[63/238] Generating: Olivia Yamamoto
+  📝 Role: Creative Director
+  🏢 Industry: Plant-Based Alternatives
+  📁 File: dtc_plant-basedalternatives_olivia.jpg
+  ✅ Image saved to: reference_personas/dtc_plant-basedalternatives_olivia.jpg
+
+[64/238] Generating: Elena Mwangi
+  📝 Role: Founder
+  🏢 Industry: Plant-Based Alternatives
+  📁 File: dtc_plant-basedalternatives_elena.jpg
+  ✅ Image saved to: reference_personas/dtc_plant-basedalternatives_elena.jpg
+
+[65/238] Generating: Kenji Mwangi
+  📝 Role: Influencer
+  🏢 Industry: Healthy Snacks
+  📁 File: dtc_healthysnacks_kenji.jpg
+  ✅ Image saved to: reference_personas/dtc_healthysnacks_kenji.jpg
+
+[66/238] Generating: Lucas Mwangi
+  📝 Role: Brand Ambassador
+  🏢 Industry: Healthy Snacks
+  📁 File: dtc_healthysnacks_lucas.jpg
+  ✅ Image saved to: reference_personas/dtc_healthysnacks_lucas.jpg
+
+[67/238] Generating: Priya Muller
+  📝 Role: Creative Director
+  🏢 Industry: Healthy Snacks
+  📁 File: dtc_healthysnacks_priya.jpg
+  ✅ Image saved to: reference_personas/dtc_healthysnacks_priya.jpg
+
+[68/238] Generating: Priya Dubois
+  📝 Role: Founder
+  🏢 Industry: Healthy Snacks
+  📁 File: dtc_healthysnacks_priya.jpg
+  ✅ Image saved to: reference_personas/dtc_healthysnacks_priya.jpg
+
+[69/238] Generating: Sarah Popov
+  📝 Role: Influencer
+  🏢 Industry: Coffee & Tea
+  📁 File: dtc_coffeetea_sarah.jpg
+  ✅ Image saved to: reference_personas/dtc_coffeetea_sarah.jpg
+
+[70/238] Generating: Isabella Chen
+  📝 Role: Super User
+  🏢 Industry: Coffee & Tea
+  📁 File: dtc_coffeetea_isabella.jpg
+  ✅ Image saved to: reference_personas/dtc_coffeetea_isabella.jpg
+
+[71/238] Generating: Casey Cohen
+  📝 Role: Creative Director
+  🏢 Industry: Coffee & Tea
+  📁 File: dtc_coffeetea_casey.jpg
+  ✅ Image saved to: reference_personas/dtc_coffeetea_casey.jpg
+
+[72/238] Generating: Kenji Dubois
+  📝 Role: Super User
+  🏢 Industry: Coffee & Tea
+  📁 File: dtc_coffeetea_kenji.jpg
+  ✅ Image saved to: reference_personas/dtc_coffeetea_kenji.jpg
+
+[73/238] Generating: Olivia Santos
+  📝 Role: Influencer
+  🏢 Industry: Alcohol & Spirits
+  📁 File: dtc_alcoholspirits_olivia.jpg
+  ✅ Image saved to: reference_personas/dtc_alcoholspirits_olivia.jpg
+
+[74/238] Generating: Elena Kim
+  📝 Role: Super User
+  🏢 Industry: Alcohol & Spirits
+  📁 File: dtc_alcoholspirits_elena.jpg
+  ✅ Image saved to: reference_personas/dtc_alcoholspirits_elena.jpg
+
+[75/238] Generating: Casey Smith
+  📝 Role: Super User
+  🏢 Industry: Alcohol & Spirits
+  📁 File: dtc_alcoholspirits_casey.jpg
+  ✅ Image saved to: reference_personas/dtc_alcoholspirits_casey.jpg
+
+[76/238] Generating: Isabella Smith
+  📝 Role: Influencer
+  🏢 Industry: Pantry Staples
+  📁 File: dtc_pantrystaples_isabella.jpg
+  ✅ Image saved to: reference_personas/dtc_pantrystaples_isabella.jpg
+
+[77/238] Generating: Chen Smith
+  📝 Role: Influencer
+  🏢 Industry: Pantry Staples
+  📁 File: dtc_pantrystaples_chen.jpg
+  ✅ Image saved to: reference_personas/dtc_pantrystaples_chen.jpg
+
+[78/238] Generating: Priya Johnson
+  📝 Role: Creative Director
+  🏢 Industry: Pantry Staples
+  📁 File: dtc_pantrystaples_priya.jpg
+  ✅ Image saved to: reference_personas/dtc_pantrystaples_priya.jpg
+
+[79/238] Generating: Riley Muller
+  📝 Role: Super User
+  🏢 Industry: Pantry Staples
+  📁 File: dtc_pantrystaples_riley.jpg
+  ✅ Image saved to: reference_personas/dtc_pantrystaples_riley.jpg
+
+[80/238] Generating: Kenji Novak
+  📝 Role: Founder
+  🏢 Industry: Health & Wellness
+  📁 File: dtc_healthwellness_kenji.jpg
+  ✅ Image saved to: reference_personas/dtc_healthwellness_kenji.jpg
+
+[81/238] Generating: Zoe Popov
+  📝 Role: Super User
+  🏢 Industry: Health & Wellness
+  📁 File: dtc_healthwellness_zoe.jpg
+  ✅ Image saved to: reference_personas/dtc_healthwellness_zoe.jpg
+
+[82/238] Generating: Mia Muller
+  📝 Role: Founder
+  🏢 Industry: Health & Wellness
+  📁 File: dtc_healthwellness_mia.jpg
+  ✅ Image saved to: reference_personas/dtc_healthwellness_mia.jpg
+
+[83/238] Generating: Casey Rivera
+  📝 Role: Creative Director
+  🏢 Industry: Health & Wellness
+  📁 File: dtc_healthwellness_casey.jpg
+  ✅ Image saved to: reference_personas/dtc_healthwellness_casey.jpg
+
+[84/238] Generating: Lucas Santos
+  📝 Role: Founder
+  🏢 Industry: Supplements & Vitamins
+  📁 File: dtc_supplementsvitamins_lucas.jpg
+  ✅ Image saved to: reference_personas/dtc_supplementsvitamins_lucas.jpg
+
+[85/238] Generating: Kenji Muller
+  📝 Role: Influencer
+  🏢 Industry: Supplements & Vitamins
+  📁 File: dtc_supplementsvitamins_kenji.jpg
+  ✅ Image saved to: reference_personas/dtc_supplementsvitamins_kenji.jpg
+
+[86/238] Generating: Hiro Patel
+  📝 Role: Founder
+  🏢 Industry: Supplements & Vitamins
+  📁 File: dtc_supplementsvitamins_hiro.jpg
+  ✅ Image saved to: reference_personas/dtc_supplementsvitamins_hiro.jpg
+
+[87/238] Generating: Chen Johnson
+  📝 Role: Brand Ambassador
+  🏢 Industry: Supplements & Vitamins
+  📁 File: dtc_supplementsvitamins_chen.jpg
+  ✅ Image saved to: reference_personas/dtc_supplementsvitamins_chen.jpg
+
+[88/238] Generating: Hiro Kim
+  📝 Role: Influencer
+  🏢 Industry: Fitness Hardware
+  📁 File: dtc_fitnesshardware_hiro.jpg
+  ✅ Image saved to: reference_personas/dtc_fitnesshardware_hiro.jpg
+
+[89/238] Generating: Sofia Santos
+  📝 Role: Influencer
+  🏢 Industry: Fitness Hardware
+  📁 File: dtc_fitnesshardware_sofia.jpg
+  ✅ Image saved to: reference_personas/dtc_fitnesshardware_sofia.jpg
+
+[90/238] Generating: Riley Johnson
+  📝 Role: Brand Ambassador
+  🏢 Industry: Fitness Hardware
+  📁 File: dtc_fitnesshardware_riley.jpg
+  ✅ Image saved to: reference_personas/dtc_fitnesshardware_riley.jpg
+
+[91/238] Generating: Casey Kim
+  📝 Role: Influencer
+  🏢 Industry: Sleep Technology
+  📁 File: dtc_sleeptechnology_casey.jpg
+  ✅ Image saved to: reference_personas/dtc_sleeptechnology_casey.jpg
+
+[92/238] Generating: Riley Cohen
+  📝 Role: Super User
+  🏢 Industry: Sleep Technology
+  📁 File: dtc_sleeptechnology_riley.jpg
+  ✅ Image saved to: reference_personas/dtc_sleeptechnology_riley.jpg
+
+[93/238] Generating: Liam Lee
+  📝 Role: Creative Director
+  🏢 Industry: Sleep Technology
+  📁 File: dtc_sleeptechnology_liam.jpg
+  ✅ Image saved to: reference_personas/dtc_sleeptechnology_liam.jpg
+
+[94/238] Generating: Chen Johnson
+  📝 Role: Creative Director
+  🏢 Industry: Sleep Technology
+  📁 File: dtc_sleeptechnology_chen.jpg
+  ✅ Image saved to: reference_personas/dtc_sleeptechnology_chen.jpg
+
+[95/238] Generating: Riley Muller
+  📝 Role: Influencer
+  🏢 Industry: Sexual Wellness
+  📁 File: dtc_sexualwellness_riley.jpg
+  ✅ Image saved to: reference_personas/dtc_sexualwellness_riley.jpg
+
+[96/238] Generating: Elena Mwangi
+  📝 Role: Brand Ambassador
+  🏢 Industry: Sexual Wellness
+  📁 File: dtc_sexualwellness_elena.jpg
+  ✅ Image saved to: reference_personas/dtc_sexualwellness_elena.jpg
+
+[97/238] Generating: Jamal Chen
+  📝 Role: Super User
+  🏢 Industry: Sexual Wellness
+  📁 File: dtc_sexualwellness_jamal.jpg
+  ✅ Image saved to: reference_personas/dtc_sexualwellness_jamal.jpg
+
+[98/238] Generating: Quinn Lee
+  📝 Role: Founder
+  🏢 Industry: Sexual Wellness
+  📁 File: dtc_sexualwellness_quinn.jpg
+  ✅ Image saved to: reference_personas/dtc_sexualwellness_quinn.jpg
+
+[99/238] Generating: Emma Cohen
+  📝 Role: Brand Ambassador
+  🏢 Industry: Home & Living
+  📁 File: dtc_homeliving_emma.jpg
+  ✅ Image saved to: reference_personas/dtc_homeliving_emma.jpg
+
+[100/238] Generating: Elena Tanaka
+  📝 Role: Brand Ambassador
+  🏢 Industry: Home & Living
+  📁 File: dtc_homeliving_elena.jpg
+  ✅ Image saved to: reference_personas/dtc_homeliving_elena.jpg
+
+[101/238] Generating: Olivia Patel
+  📝 Role: Super User
+  🏢 Industry: Home & Living
+  📁 File: dtc_homeliving_olivia.jpg
+  ✅ Image saved to: reference_personas/dtc_homeliving_olivia.jpg
+
+[102/238] Generating: Skyler Kim
+  📝 Role: Creative Director
+  🏢 Industry: Furniture
+  📁 File: dtc_furniture_skyler.jpg
+  ✅ Image saved to: reference_personas/dtc_furniture_skyler.jpg
+
+[103/238] Generating: Hiro Rivera
+  📝 Role: Super User
+  🏢 Industry: Furniture
+  📁 File: dtc_furniture_hiro.jpg
+  ✅ Image saved to: reference_personas/dtc_furniture_hiro.jpg
+
+[104/238] Generating: Chen Popov
+  📝 Role: Founder
+  🏢 Industry: Furniture
+  📁 File: dtc_furniture_chen.jpg
+  ✅ Image saved to: reference_personas/dtc_furniture_chen.jpg
+
+[105/238] Generating: Fatima Garcia
+  📝 Role: Creative Director
+  🏢 Industry: Kitchenware
+  📁 File: dtc_kitchenware_fatima.jpg
+  ✅ Image saved to: reference_personas/dtc_kitchenware_fatima.jpg
+
+[106/238] Generating: Avery Rivera
+  📝 Role: Creative Director
+  🏢 Industry: Kitchenware
+  📁 File: dtc_kitchenware_avery.jpg
+  ✅ Image saved to: reference_personas/dtc_kitchenware_avery.jpg
+
+[107/238] Generating: Hiro Rivera
+  📝 Role: Creative Director
+  🏢 Industry: Kitchenware
+  📁 File: dtc_kitchenware_hiro.jpg
+  ✅ Image saved to: reference_personas/dtc_kitchenware_hiro.jpg
+
+[108/238] Generating: Mia Smith
+  📝 Role: Brand Ambassador
+  🏢 Industry: Home Decor
+  📁 File: dtc_homedecor_mia.jpg
+  ✅ Image saved to: reference_personas/dtc_homedecor_mia.jpg
+
+[109/238] Generating: Chen Yamamoto
+  📝 Role: Influencer
+  🏢 Industry: Home Decor
+  📁 File: dtc_homedecor_chen.jpg
+  ✅ Image saved to: reference_personas/dtc_homedecor_chen.jpg
+
+[110/238] Generating: James Santos
+  📝 Role: Founder
+  🏢 Industry: Home Decor
+  📁 File: dtc_homedecor_james.jpg
+  ✅ Image saved to: reference_personas/dtc_homedecor_james.jpg
+
+[111/238] Generating: James Mwangi
+  📝 Role: Founder
+  🏢 Industry: Cleaning Supplies
+  📁 File: dtc_cleaningsupplies_james.jpg
+  ❌ Error: [Errno 54] Connection reset by peer
+
+[112/238] Generating: Jamal Johnson
+  📝 Role: Super User
+  🏢 Industry: Cleaning Supplies
+  📁 File: dtc_cleaningsupplies_jamal.jpg
+  ✅ Image saved to: reference_personas/dtc_cleaningsupplies_jamal.jpg
+
+[113/238] Generating: Liam Garcia
+  📝 Role: Brand Ambassador
+  🏢 Industry: Cleaning Supplies
+  📁 File: dtc_cleaningsupplies_liam.jpg
+  ✅ Image saved to: reference_personas/dtc_cleaningsupplies_liam.jpg
+
+[114/238] Generating: Mateo Popov
+  📝 Role: Creative Director
+  🏢 Industry: Cleaning Supplies
+  📁 File: dtc_cleaningsupplies_mateo.jpg
+  ✅ Image saved to: reference_personas/dtc_cleaningsupplies_mateo.jpg
+
+[115/238] Generating: Sofia Novak
+  📝 Role: Founder
+  🏢 Industry: Pet Care
+  📁 File: dtc_petcare_sofia.jpg
+  ✅ Image saved to: reference_personas/dtc_petcare_sofia.jpg
+
+[116/238] Generating: Sarah Dubois
+  📝 Role: Brand Ambassador
+  🏢 Industry: Pet Care
+  📁 File: dtc_petcare_sarah.jpg
+  ✅ Image saved to: reference_personas/dtc_petcare_sarah.jpg
+
+[117/238] Generating: Jamal Novak
+  📝 Role: Brand Ambassador
+  🏢 Industry: Pet Care
+  📁 File: dtc_petcare_jamal.jpg
+  ✅ Image saved to: reference_personas/dtc_petcare_jamal.jpg
+
+[118/238] Generating: Ethan Cohen
+  📝 Role: Brand Ambassador
+  🏢 Industry: Pet Food
+  📁 File: dtc_petfood_ethan.jpg
+  ✅ Image saved to: reference_personas/dtc_petfood_ethan.jpg
+
+[119/238] Generating: Taylor Patel
+  📝 Role: Brand Ambassador
+  🏢 Industry: Pet Food
+  📁 File: dtc_petfood_taylor.jpg
+  ✅ Image saved to: reference_personas/dtc_petfood_taylor.jpg
+
+[120/238] Generating: Kenji Novak
+  📝 Role: Influencer
+  🏢 Industry: Pet Food
+  📁 File: dtc_petfood_kenji.jpg
+  ✅ Image saved to: reference_personas/dtc_petfood_kenji.jpg
+
+[121/238] Generating: Alex Popov
+  📝 Role: Influencer
+  🏢 Industry: Pet Food
+  📁 File: dtc_petfood_alex.jpg
+  ✅ Image saved to: reference_personas/dtc_petfood_alex.jpg
+
+[122/238] Generating: Alex Patel
+  📝 Role: Creative Director
+  🏢 Industry: Pet Supplies
+  📁 File: dtc_petsupplies_alex.jpg
+  ✅ Image saved to: reference_personas/dtc_petsupplies_alex.jpg
+
+[123/238] Generating: Jordan Muller
+  📝 Role: Super User
+  🏢 Industry: Pet Supplies
+  📁 File: dtc_petsupplies_jordan.jpg
+  ✅ Image saved to: reference_personas/dtc_petsupplies_jordan.jpg
+
+[124/238] Generating: Nadia Cohen
+  📝 Role: Founder
+  🏢 Industry: Pet Supplies
+  📁 File: dtc_petsupplies_nadia.jpg
+  ✅ Image saved to: reference_personas/dtc_petsupplies_nadia.jpg
+
+[125/238] Generating: Taylor Dubois
+  📝 Role: Customer Success
+  🏢 Industry: Marketing & Sales (MarTech)
+  📁 File: saas_marketingsales(martech)_taylor.jpg
+  ✅ Image saved to: reference_personas/saas_marketingsales(martech)_taylor.jpg
+
+[126/238] Generating: Taylor Dubois
+  📝 Role: Customer Success
+  🏢 Industry: Marketing & Sales (MarTech)
+  📁 File: saas_marketingsales(martech)_taylor.jpg
+  ✅ Image saved to: reference_personas/saas_marketingsales(martech)_taylor.jpg
+
+[127/238] Generating: Jordan Cohen
+  📝 Role: Customer Success
+  🏢 Industry: Marketing & Sales (MarTech)
+  📁 File: saas_marketingsales(martech)_jordan.jpg
+  ✅ Image saved to: reference_personas/saas_marketingsales(martech)_jordan.jpg
+
+[128/238] Generating: Liam Muller
+  📝 Role: Product Lead
+  🏢 Industry: CRM
+  📁 File: saas_crm_liam.jpg
+  ✅ Image saved to: reference_personas/saas_crm_liam.jpg
+
+[129/238] Generating: Sofia Rivera
+  📝 Role: Sales VP
+  🏢 Industry: CRM
+  📁 File: saas_crm_sofia.jpg
+  ✅ Image saved to: reference_personas/saas_crm_sofia.jpg
+
+[130/238] Generating: Lucas Muller
+  📝 Role: Sales VP
+  🏢 Industry: CRM
+  📁 File: saas_crm_lucas.jpg
+  ✅ Image saved to: reference_personas/saas_crm_lucas.jpg
+
+[131/238] Generating: Casey Dubois
+  📝 Role: Engineer
+  🏢 Industry: Email Marketing
+  📁 File: saas_emailmarketing_casey.jpg
+  ✅ Image saved to: reference_personas/saas_emailmarketing_casey.jpg
+
+[132/238] Generating: Alex Santos
+  📝 Role: Engineer
+  🏢 Industry: Email Marketing
+  📁 File: saas_emailmarketing_alex.jpg
+  ✅ Image saved to: reference_personas/saas_emailmarketing_alex.jpg
+
+[133/238] Generating: Liam Novak
+  📝 Role: Product Lead
+  🏢 Industry: Email Marketing
+  📁 File: saas_emailmarketing_liam.jpg
+  ✅ Image saved to: reference_personas/saas_emailmarketing_liam.jpg
+
+[134/238] Generating: Taylor Kim
+  📝 Role: Founder
+  🏢 Industry: Social Media Management
+  📁 File: saas_socialmediamanagement_taylor.jpg
+  ✅ Image saved to: reference_personas/saas_socialmediamanagement_taylor.jpg
+
+[135/238] Generating: Marcus Dubois
+  📝 Role: Customer Success
+  🏢 Industry: Social Media Management
+  📁 File: saas_socialmediamanagement_marcus.jpg
+  ✅ Image saved to: reference_personas/saas_socialmediamanagement_marcus.jpg
+
+[136/238] Generating: Kenji Tanaka
+  📝 Role: Sales VP
+  🏢 Industry: Social Media Management
+  📁 File: saas_socialmediamanagement_kenji.jpg
+  ✅ Image saved to: reference_personas/saas_socialmediamanagement_kenji.jpg
+
+[137/238] Generating: Jamal Muller
+  📝 Role: Product Lead
+  🏢 Industry: Social Media Management
+  📁 File: saas_socialmediamanagement_jamal.jpg
+  ✅ Image saved to: reference_personas/saas_socialmediamanagement_jamal.jpg
+
+[138/238] Generating: Mateo Muller
+  📝 Role: Customer Success
+  🏢 Industry: SEO & Content Marketing
+  📁 File: saas_seocontentmarketing_mateo.jpg
+  ✅ Image saved to: reference_personas/saas_seocontentmarketing_mateo.jpg
+
+[139/238] Generating: Avery Yamamoto
+  📝 Role: Product Lead
+  🏢 Industry: SEO & Content Marketing
+  📁 File: saas_seocontentmarketing_avery.jpg
+  ✅ Image saved to: reference_personas/saas_seocontentmarketing_avery.jpg
+
+[140/238] Generating: Casey Muller
+  📝 Role: Sales VP
+  🏢 Industry: SEO & Content Marketing
+  📁 File: saas_seocontentmarketing_casey.jpg
+  ✅ Image saved to: reference_personas/saas_seocontentmarketing_casey.jpg
+
+[141/238] Generating: Casey Johnson
+  📝 Role: Sales VP
+  🏢 Industry: SEO & Content Marketing
+  📁 File: saas_seocontentmarketing_casey.jpg
+  ✅ Image saved to: reference_personas/saas_seocontentmarketing_casey.jpg
+
+[142/238] Generating: Kenji Muller
+  📝 Role: Founder
+  🏢 Industry: AdTech
+  📁 File: saas_adtech_kenji.jpg
+  ❌ Error: [Errno 54] Connection reset by peer
+
+[143/238] Generating: Isabella Garcia
+  📝 Role: Founder
+  🏢 Industry: AdTech
+  📁 File: saas_adtech_isabella.jpg
+  ✅ Image saved to: reference_personas/saas_adtech_isabella.jpg
+
+[144/238] Generating: James Popov
+  📝 Role: Product Lead
+  🏢 Industry: AdTech
+  📁 File: saas_adtech_james.jpg
+  ✅ Image saved to: reference_personas/saas_adtech_james.jpg
+
+[145/238] Generating: Sofia Novak
+  📝 Role: Founder
+  🏢 Industry: AdTech
+  📁 File: saas_adtech_sofia.jpg
+  ✅ Image saved to: reference_personas/saas_adtech_sofia.jpg
+
+[146/238] Generating: Liam Santos
+  📝 Role: Product Lead
+  🏢 Industry: Human Resources (HRTech)
+  📁 File: saas_humanresources(hrtech)_liam.jpg
+  ✅ Image saved to: reference_personas/saas_humanresources(hrtech)_liam.jpg
+
+[147/238] Generating: Mateo Popov
+  📝 Role: Product Lead
+  🏢 Industry: Human Resources (HRTech)
+  📁 File: saas_humanresources(hrtech)_mateo.jpg
+  ✅ Image saved to: reference_personas/saas_humanresources(hrtech)_mateo.jpg
+
+[148/238] Generating: Priya Popov
+  📝 Role: Founder
+  🏢 Industry: Human Resources (HRTech)
+  📁 File: saas_humanresources(hrtech)_priya.jpg
+  ✅ Image saved to: reference_personas/saas_humanresources(hrtech)_priya.jpg
+
+[149/238] Generating: Casey Tanaka
+  📝 Role: Customer Success
+  🏢 Industry: HRIS
+  📁 File: saas_hris_casey.jpg
+  ✅ Image saved to: reference_personas/saas_hris_casey.jpg
+
+[150/238] Generating: Ethan Cohen
+  📝 Role: Product Lead
+  🏢 Industry: HRIS
+  📁 File: saas_hris_ethan.jpg
+  ✅ Image saved to: reference_personas/saas_hris_ethan.jpg
+
+[151/238] Generating: Quinn Johnson
+  📝 Role: Customer Success
+  🏢 Industry: HRIS
+  📁 File: saas_hris_quinn.jpg
+  ✅ Image saved to: reference_personas/saas_hris_quinn.jpg
+
+[152/238] Generating: Mia Tanaka
+  📝 Role: Product Lead
+  🏢 Industry: HRIS
+  📁 File: saas_hris_mia.jpg
+  ✅ Image saved to: reference_personas/saas_hris_mia.jpg
+
+[153/238] Generating: Casey Garcia
+  📝 Role: Product Lead
+  🏢 Industry: ATS
+  📁 File: saas_ats_casey.jpg
+  ✅ Image saved to: reference_personas/saas_ats_casey.jpg
+
+[154/238] Generating: Sofia Yamamoto
+  📝 Role: Customer Success
+  🏢 Industry: ATS
+  📁 File: saas_ats_sofia.jpg
+  ✅ Image saved to: reference_personas/saas_ats_sofia.jpg
+
+[155/238] Generating: Skyler Tanaka
+  📝 Role: Engineer
+  🏢 Industry: ATS
+  📁 File: saas_ats_skyler.jpg
+  ✅ Image saved to: reference_personas/saas_ats_skyler.jpg
+
+[156/238] Generating: Isabella Santos
+  📝 Role: Sales VP
+  🏢 Industry: Payroll & Compliance
+  📁 File: saas_payrollcompliance_isabella.jpg
+  ✅ Image saved to: reference_personas/saas_payrollcompliance_isabella.jpg
+
+[157/238] Generating: Emma Novak
+  📝 Role: Sales VP
+  🏢 Industry: Payroll & Compliance
+  📁 File: saas_payrollcompliance_emma.jpg
+  ✅ Image saved to: reference_personas/saas_payrollcompliance_emma.jpg
+
+[158/238] Generating: Jamal Novak
+  📝 Role: Product Lead
+  🏢 Industry: Payroll & Compliance
+  📁 File: saas_payrollcompliance_jamal.jpg
+  ✅ Image saved to: reference_personas/saas_payrollcompliance_jamal.jpg
+
+[159/238] Generating: Mia Lee
+  📝 Role: Product Lead
+  🏢 Industry: Payroll & Compliance
+  📁 File: saas_payrollcompliance_mia.jpg
+  ✅ Image saved to: reference_personas/saas_payrollcompliance_mia.jpg
+
+[160/238] Generating: Taylor Singh
+  📝 Role: Customer Success
+  🏢 Industry: Employee Engagement
+  📁 File: saas_employeeengagement_taylor.jpg
+  ✅ Image saved to: reference_personas/saas_employeeengagement_taylor.jpg
+
+[161/238] Generating: Chen Kim
+  📝 Role: Founder
+  🏢 Industry: Employee Engagement
+  📁 File: saas_employeeengagement_chen.jpg
+  ✅ Image saved to: reference_personas/saas_employeeengagement_chen.jpg
+
+[162/238] Generating: Lucas Tanaka
+  📝 Role: Engineer
+  🏢 Industry: Employee Engagement
+  📁 File: saas_employeeengagement_lucas.jpg
+  ✅ Image saved to: reference_personas/saas_employeeengagement_lucas.jpg
+
+[163/238] Generating: Fatima Singh
+  📝 Role: Engineer
+  🏢 Industry: Productivity & Collaboration
+  📁 File: saas_productivitycollaboration_fatima.jpg
+  ✅ Image saved to: reference_personas/saas_productivitycollaboration_fatima.jpg
+
+[164/238] Generating: Fatima Yamamoto
+  📝 Role: Customer Success
+  🏢 Industry: Productivity & Collaboration
+  📁 File: saas_productivitycollaboration_fatima.jpg
+  ✅ Image saved to: reference_personas/saas_productivitycollaboration_fatima.jpg
+
+[165/238] Generating: Noah Muller
+  📝 Role: Engineer
+  🏢 Industry: Productivity & Collaboration
+  📁 File: saas_productivitycollaboration_noah.jpg
+  ✅ Image saved to: reference_personas/saas_productivitycollaboration_noah.jpg
+
+[166/238] Generating: Jordan Kim
+  📝 Role: Customer Success
+  🏢 Industry: Project Management
+  📁 File: saas_projectmanagement_jordan.jpg
+  ✅ Image saved to: reference_personas/saas_projectmanagement_jordan.jpg
+
+[167/238] Generating: Skyler Tanaka
+  📝 Role: Sales VP
+  🏢 Industry: Project Management
+  📁 File: saas_projectmanagement_skyler.jpg
+  ✅ Image saved to: reference_personas/saas_projectmanagement_skyler.jpg
+
+[168/238] Generating: Chen Chen
+  📝 Role: Engineer
+  🏢 Industry: Project Management
+  📁 File: saas_projectmanagement_chen.jpg
+  ✅ Image saved to: reference_personas/saas_projectmanagement_chen.jpg
+
+[169/238] Generating: Emma Yamamoto
+  📝 Role: Product Lead
+  🏢 Industry: Project Management
+  📁 File: saas_projectmanagement_emma.jpg
+  ✅ Image saved to: reference_personas/saas_projectmanagement_emma.jpg
+
+[170/238] Generating: Zoe Tanaka
+  📝 Role: Product Lead
+  🏢 Industry: Team Communication
+  📁 File: saas_teamcommunication_zoe.jpg
+  ✅ Image saved to: reference_personas/saas_teamcommunication_zoe.jpg
+
+[171/238] Generating: Chen Kim
+  📝 Role: Engineer
+  🏢 Industry: Team Communication
+  📁 File: saas_teamcommunication_chen.jpg
+  ✅ Image saved to: reference_personas/saas_teamcommunication_chen.jpg
+
+[172/238] Generating: Skyler Yamamoto
+  📝 Role: Sales VP
+  🏢 Industry: Team Communication
+  📁 File: saas_teamcommunication_skyler.jpg
+  ✅ Image saved to: reference_personas/saas_teamcommunication_skyler.jpg
+
+[173/238] Generating: Jamal Popov
+  📝 Role: Sales VP
+  🏢 Industry: Knowledge Management
+  📁 File: saas_knowledgemanagement_jamal.jpg
+  ✅ Image saved to: reference_personas/saas_knowledgemanagement_jamal.jpg
+
+[174/238] Generating: Isabella Mwangi
+  📝 Role: Customer Success
+  🏢 Industry: Knowledge Management
+  📁 File: saas_knowledgemanagement_isabella.jpg
+  ✅ Image saved to: reference_personas/saas_knowledgemanagement_isabella.jpg
+
+[175/238] Generating: Olivia Johnson
+  📝 Role: Product Lead
+  🏢 Industry: Knowledge Management
+  📁 File: saas_knowledgemanagement_olivia.jpg
+  ✅ Image saved to: reference_personas/saas_knowledgemanagement_olivia.jpg
+
+[176/238] Generating: Sarah Novak
+  📝 Role: Sales VP
+  🏢 Industry: Knowledge Management
+  📁 File: saas_knowledgemanagement_sarah.jpg
+  ✅ Image saved to: reference_personas/saas_knowledgemanagement_sarah.jpg
+
+[177/238] Generating: Nadia Yamamoto
+  📝 Role: Sales VP
+  🏢 Industry: Design Tools
+  📁 File: saas_designtools_nadia.jpg
+  ✅ Image saved to: reference_personas/saas_designtools_nadia.jpg
+
+[178/238] Generating: Jamal Popov
+  📝 Role: Sales VP
+  🏢 Industry: Design Tools
+  📁 File: saas_designtools_jamal.jpg
+  ✅ Image saved to: reference_personas/saas_designtools_jamal.jpg
+
+[179/238] Generating: Liam Singh
+  📝 Role: Founder
+  🏢 Industry: Design Tools
+  📁 File: saas_designtools_liam.jpg
+  ✅ Image saved to: reference_personas/saas_designtools_liam.jpg
+
+[180/238] Generating: Olivia Dubois
+  📝 Role: Product Lead
+  🏢 Industry: Finance & Accounting (FinTech)
+  📁 File: saas_financeaccounting(fintech)_olivia.jpg
+  ✅ Image saved to: reference_personas/saas_financeaccounting(fintech)_olivia.jpg
+
+[181/238] Generating: Quinn Lee
+  📝 Role: Customer Success
+  🏢 Industry: Finance & Accounting (FinTech)
+  📁 File: saas_financeaccounting(fintech)_quinn.jpg
+  ✅ Image saved to: reference_personas/saas_financeaccounting(fintech)_quinn.jpg
+
+[182/238] Generating: Zoe Mwangi
+  📝 Role: Sales VP
+  🏢 Industry: Finance & Accounting (FinTech)
+  📁 File: saas_financeaccounting(fintech)_zoe.jpg
+  ✅ Image saved to: reference_personas/saas_financeaccounting(fintech)_zoe.jpg
+
+[183/238] Generating: Elena Santos
+  📝 Role: Customer Success
+  🏢 Industry: Accounting Software
+  📁 File: saas_accountingsoftware_elena.jpg
+  ✅ Image saved to: reference_personas/saas_accountingsoftware_elena.jpg
+
+[184/238] Generating: Emma Cohen
+  📝 Role: Product Lead
+  🏢 Industry: Accounting Software
+  📁 File: saas_accountingsoftware_emma.jpg
+  ✅ Image saved to: reference_personas/saas_accountingsoftware_emma.jpg
+
+[185/238] Generating: James Novak
+  📝 Role: Sales VP
+  🏢 Industry: Accounting Software
+  📁 File: saas_accountingsoftware_james.jpg
+  ✅ Image saved to: reference_personas/saas_accountingsoftware_james.jpg
+
+[186/238] Generating: Lucas Chen
+  📝 Role: Engineer
+  🏢 Industry: Accounting Software
+  📁 File: saas_accountingsoftware_lucas.jpg
+  ✅ Image saved to: reference_personas/saas_accountingsoftware_lucas.jpg
+
+[187/238] Generating: Noah Lee
+  📝 Role: Engineer
+  🏢 Industry: Expense Management
+  📁 File: saas_expensemanagement_noah.jpg
+  ✅ Image saved to: reference_personas/saas_expensemanagement_noah.jpg
+
+[188/238] Generating: Priya Garcia
+  📝 Role: Customer Success
+  🏢 Industry: Expense Management
+  📁 File: saas_expensemanagement_priya.jpg
+  ✅ Image saved to: reference_personas/saas_expensemanagement_priya.jpg
+
+[189/238] Generating: Mateo Cohen
+  📝 Role: Founder
+  🏢 Industry: Expense Management
+  📁 File: saas_expensemanagement_mateo.jpg
+  ✅ Image saved to: reference_personas/saas_expensemanagement_mateo.jpg
+
+[190/238] Generating: Sarah Novak
+  📝 Role: Customer Success
+  🏢 Industry: Expense Management
+  📁 File: saas_expensemanagement_sarah.jpg
+  ✅ Image saved to: reference_personas/saas_expensemanagement_sarah.jpg
+
+[191/238] Generating: Olivia Muller
+  📝 Role: Customer Success
+  🏢 Industry: Payment Gateways
+  📁 File: saas_paymentgateways_olivia.jpg
+  ✅ Image saved to: reference_personas/saas_paymentgateways_olivia.jpg
+
+[192/238] Generating: Skyler Mwangi
+  📝 Role: Engineer
+  🏢 Industry: Payment Gateways
+  📁 File: saas_paymentgateways_skyler.jpg
+  ✅ Image saved to: reference_personas/saas_paymentgateways_skyler.jpg
+
+[193/238] Generating: Mateo Dubois
+  📝 Role: Founder
+  🏢 Industry: Payment Gateways
+  📁 File: saas_paymentgateways_mateo.jpg
+  ✅ Image saved to: reference_personas/saas_paymentgateways_mateo.jpg
+
+[194/238] Generating: Sarah Kim
+  📝 Role: Sales VP
+  🏢 Industry: Payment Gateways
+  📁 File: saas_paymentgateways_sarah.jpg
+  ✅ Image saved to: reference_personas/saas_paymentgateways_sarah.jpg
+
+[195/238] Generating: Zoe Rivera
+  📝 Role: Sales VP
+  🏢 Industry: Developer Tools (DevTools)
+  📁 File: saas_developertools(devtools)_zoe.jpg
+  ✅ Image saved to: reference_personas/saas_developertools(devtools)_zoe.jpg
+
+[196/238] Generating: Jamal Rivera
+  📝 Role: Sales VP
+  🏢 Industry: Developer Tools (DevTools)
+  📁 File: saas_developertools(devtools)_jamal.jpg
+  ✅ Image saved to: reference_personas/saas_developertools(devtools)_jamal.jpg
+
+[197/238] Generating: James Mwangi
+  📝 Role: Sales VP
+  🏢 Industry: Developer Tools (DevTools)
+  📁 File: saas_developertools(devtools)_james.jpg
+  ✅ Image saved to: reference_personas/saas_developertools(devtools)_james.jpg
+
+[198/238] Generating: Lucas Tanaka
+  📝 Role: Customer Success
+  🏢 Industry: Cloud Infrastructure
+  📁 File: saas_cloudinfrastructure_lucas.jpg
+  ✅ Image saved to: reference_personas/saas_cloudinfrastructure_lucas.jpg
+
+[199/238] Generating: Mateo Muller
+  📝 Role: Sales VP
+  🏢 Industry: Cloud Infrastructure
+  📁 File: saas_cloudinfrastructure_mateo.jpg
+  ✅ Image saved to: reference_personas/saas_cloudinfrastructure_mateo.jpg
+
+[200/238] Generating: Priya Mwangi
+  📝 Role: Founder
+  🏢 Industry: Cloud Infrastructure
+  📁 File: saas_cloudinfrastructure_priya.jpg
+  ✅ Image saved to: reference_personas/saas_cloudinfrastructure_priya.jpg
+
+[201/238] Generating: Chen Patel
+  📝 Role: Product Lead
+  🏢 Industry: Observability & Monitoring
+  📁 File: saas_observabilitymonitoring_chen.jpg
+  ✅ Image saved to: reference_personas/saas_observabilitymonitoring_chen.jpg
+
+[202/238] Generating: Jordan Chen
+  📝 Role: Founder
+  🏢 Industry: Observability & Monitoring
+  📁 File: saas_observabilitymonitoring_jordan.jpg
+  ✅ Image saved to: reference_personas/saas_observabilitymonitoring_jordan.jpg
+
+[203/238] Generating: Olivia Mwangi
+  📝 Role: Product Lead
+  🏢 Industry: Observability & Monitoring
+  📁 File: saas_observabilitymonitoring_olivia.jpg
+  ✅ Image saved to: reference_personas/saas_observabilitymonitoring_olivia.jpg
+
+[204/238] Generating: Noah Patel
+  📝 Role: Founder
+  🏢 Industry: Cybersecurity & Identity
+  📁 File: saas_cybersecurityidentity_noah.jpg
+  ✅ Image saved to: reference_personas/saas_cybersecurityidentity_noah.jpg
+
+[205/238] Generating: Emma Chen
+  📝 Role: Customer Success
+  🏢 Industry: Cybersecurity & Identity
+  📁 File: saas_cybersecurityidentity_emma.jpg
+  ✅ Image saved to: reference_personas/saas_cybersecurityidentity_emma.jpg
+
+[206/238] Generating: Olivia Mwangi
+  📝 Role: Founder
+  🏢 Industry: Cybersecurity & Identity
+  📁 File: saas_cybersecurityidentity_olivia.jpg
+  ✅ Image saved to: reference_personas/saas_cybersecurityidentity_olivia.jpg
+
+[207/238] Generating: Elena Mwangi
+  📝 Role: Founder
+  🏢 Industry: E-commerce Enablers
+  📁 File: saas_e-commerceenablers_elena.jpg
+  ✅ Image saved to: reference_personas/saas_e-commerceenablers_elena.jpg
+
+[208/238] Generating: Priya Novak
+  📝 Role: Founder
+  🏢 Industry: E-commerce Enablers
+  📁 File: saas_e-commerceenablers_priya.jpg
+  ✅ Image saved to: reference_personas/saas_e-commerceenablers_priya.jpg
+
+[209/238] Generating: Mateo Cohen
+  📝 Role: Sales VP
+  🏢 Industry: E-commerce Enablers
+  📁 File: saas_e-commerceenablers_mateo.jpg
+  ✅ Image saved to: reference_personas/saas_e-commerceenablers_mateo.jpg
+
+[210/238] Generating: Hiro Dubois
+  📝 Role: Founder
+  🏢 Industry: E-commerce Enablers
+  📁 File: saas_e-commerceenablers_hiro.jpg
+  ✅ Image saved to: reference_personas/saas_e-commerceenablers_hiro.jpg
+
+[211/238] Generating: Quinn Popov
+  📝 Role: Customer Success
+  🏢 Industry: HealthTech (Medical SaaS)
+  📁 File: saas_healthtech(medicalsaas)_quinn.jpg
+  ✅ Image saved to: reference_personas/saas_healthtech(medicalsaas)_quinn.jpg
+
+[212/238] Generating: Liam Yamamoto
+  📝 Role: Sales VP
+  🏢 Industry: HealthTech (Medical SaaS)
+  📁 File: saas_healthtech(medicalsaas)_liam.jpg
+  ✅ Image saved to: reference_personas/saas_healthtech(medicalsaas)_liam.jpg
+
+[213/238] Generating: Alex Popov
+  📝 Role: Engineer
+  🏢 Industry: HealthTech (Medical SaaS)
+  📁 File: saas_healthtech(medicalsaas)_alex.jpg
+  ✅ Image saved to: reference_personas/saas_healthtech(medicalsaas)_alex.jpg
+
+[214/238] Generating: Hiro Smith
+  📝 Role: Customer Success
+  🏢 Industry: HealthTech (Medical SaaS)
+  📁 File: saas_healthtech(medicalsaas)_hiro.jpg
+  ✅ Image saved to: reference_personas/saas_healthtech(medicalsaas)_hiro.jpg
+
+[215/238] Generating: Fatima Johnson
+  📝 Role: Sales VP
+  🏢 Industry: PropTech (Real Estate)
+  📁 File: saas_proptech(realestate)_fatima.jpg
+  ✅ Image saved to: reference_personas/saas_proptech(realestate)_fatima.jpg
+
+[216/238] Generating: Jordan Novak
+  📝 Role: Sales VP
+  🏢 Industry: PropTech (Real Estate)
+  📁 File: saas_proptech(realestate)_jordan.jpg
+  ✅ Image saved to: reference_personas/saas_proptech(realestate)_jordan.jpg
+
+[217/238] Generating: Elena Lee
+  📝 Role: Customer Success
+  🏢 Industry: PropTech (Real Estate)
+  📁 File: saas_proptech(realestate)_elena.jpg
+  ✅ Image saved to: reference_personas/saas_proptech(realestate)_elena.jpg
+
+[218/238] Generating: Taylor Popov
+  📝 Role: Product Lead
+  🏢 Industry: PropTech (Real Estate)
+  📁 File: saas_proptech(realestate)_taylor.jpg
+  ✅ Image saved to: reference_personas/saas_proptech(realestate)_taylor.jpg
+
+[219/238] Generating: Marcus Garcia
+  📝 Role: Engineer
+  🏢 Industry: ConTech (Construction)
+  📁 File: saas_contech(construction)_marcus.jpg
+  ✅ Image saved to: reference_personas/saas_contech(construction)_marcus.jpg
+
+[220/238] Generating: Hiro Santos
+  📝 Role: Founder
+  🏢 Industry: ConTech (Construction)
+  📁 File: saas_contech(construction)_hiro.jpg
+  ✅ Image saved to: reference_personas/saas_contech(construction)_hiro.jpg
+
+[221/238] Generating: Skyler Yamamoto
+  📝 Role: Sales VP
+  🏢 Industry: ConTech (Construction)
+  📁 File: saas_contech(construction)_skyler.jpg
+  ✅ Image saved to: reference_personas/saas_contech(construction)_skyler.jpg
+
+[222/238] Generating: Emma Patel
+  📝 Role: Product Lead
+  🏢 Industry: ConTech (Construction)
+  📁 File: saas_contech(construction)_emma.jpg
+  ✅ Image saved to: reference_personas/saas_contech(construction)_emma.jpg
+
+[223/238] Generating: Mia Novak
+  📝 Role: Founder
+  🏢 Industry: LegalTech
+  📁 File: saas_legaltech_mia.jpg
+  ✅ Image saved to: reference_personas/saas_legaltech_mia.jpg
+
+[224/238] Generating: Isabella Patel
+  📝 Role: Customer Success
+  🏢 Industry: LegalTech
+  📁 File: saas_legaltech_isabella.jpg
+  ✅ Image saved to: reference_personas/saas_legaltech_isabella.jpg
+
+[225/238] Generating: Noah Dubois
+  📝 Role: Sales VP
+  🏢 Industry: LegalTech
+  📁 File: saas_legaltech_noah.jpg
+  ✅ Image saved to: reference_personas/saas_legaltech_noah.jpg
+
+[226/238] Generating: Taylor Mwangi
+  📝 Role: Sales VP
+  🏢 Industry: EdTech
+  📁 File: saas_edtech_taylor.jpg
+  ✅ Image saved to: reference_personas/saas_edtech_taylor.jpg
+
+[227/238] Generating: Alex Muller
+  📝 Role: Founder
+  🏢 Industry: EdTech
+  📁 File: saas_edtech_alex.jpg
+  ✅ Image saved to: reference_personas/saas_edtech_alex.jpg
+
+[228/238] Generating: Jordan Singh
+  📝 Role: Engineer
+  🏢 Industry: EdTech
+  📁 File: saas_edtech_jordan.jpg
+  ✅ Image saved to: reference_personas/saas_edtech_jordan.jpg
+
+[229/238] Generating: Liam Johnson
+  📝 Role: Engineer
+  🏢 Industry: Logistics & Supply Chain
+  📁 File: saas_logisticssupplychain_liam.jpg
+  ✅ Image saved to: reference_personas/saas_logisticssupplychain_liam.jpg
+
+[230/238] Generating: Olivia Dubois
+  📝 Role: Customer Success
+  🏢 Industry: Logistics & Supply Chain
+  📁 File: saas_logisticssupplychain_olivia.jpg
+  ✅ Image saved to: reference_personas/saas_logisticssupplychain_olivia.jpg
+
+[231/238] Generating: Avery Singh
+  📝 Role: Sales VP
+  🏢 Industry: Logistics & Supply Chain
+  📁 File: saas_logisticssupplychain_avery.jpg
+  ✅ Image saved to: reference_personas/saas_logisticssupplychain_avery.jpg
+
+[232/238] Generating: Jamal Singh
+  📝 Role: Founder
+  🏢 Industry: Hospitality & Food Tech
+  📁 File: saas_hospitalityfoodtech_jamal.jpg
+  ✅ Image saved to: reference_personas/saas_hospitalityfoodtech_jamal.jpg
+
+[233/238] Generating: Zoe Kim
+  📝 Role: Founder
+  🏢 Industry: Hospitality & Food Tech
+  📁 File: saas_hospitalityfoodtech_zoe.jpg
+  ✅ Image saved to: reference_personas/saas_hospitalityfoodtech_zoe.jpg
+
+[234/238] Generating: Ethan Santos
+  📝 Role: Product Lead
+  🏢 Industry: Hospitality & Food Tech
+  📁 File: saas_hospitalityfoodtech_ethan.jpg
+  ✅ Image saved to: reference_personas/saas_hospitalityfoodtech_ethan.jpg
+
+[235/238] Generating: Emma Yamamoto
+  📝 Role: Product Lead
+  🏢 Industry: Hospitality & Food Tech
+  📁 File: saas_hospitalityfoodtech_emma.jpg
+  ✅ Image saved to: reference_personas/saas_hospitalityfoodtech_emma.jpg
+
+[236/238] Generating: Nadia Kim
+  📝 Role: Founder
+  🏢 Industry: Manufacturing ERP
+  📁 File: saas_manufacturingerp_nadia.jpg
+  ✅ Image saved to: reference_personas/saas_manufacturingerp_nadia.jpg
+
+[237/238] Generating: Fatima Tanaka
+  📝 Role: Engineer
+  🏢 Industry: Manufacturing ERP
+  📁 File: saas_manufacturingerp_fatima.jpg
+  ✅ Image saved to: reference_personas/saas_manufacturingerp_fatima.jpg
+
+[238/238] Generating: Quinn Yamamoto
+  📝 Role: Sales VP
+  🏢 Industry: Manufacturing ERP
+  📁 File: saas_manufacturingerp_quinn.jpg
+  ✅ Image saved to: reference_personas/saas_manufacturingerp_quinn.jpg
+Traceback (most recent call last):
+  File "/Users/muralisid/github/static_files/images/generate_personas.py", line 253, in <module>
+    main()
+  File "/Users/muralisid/github/static_files/images/generate_personas.py", line 241, in main
+    save_results_json(results)
+  File "/Users/muralisid/github/static_files/images/generate_personas.py", line 157, in save_results_json
+    json.dump(cleaned_results, f, indent=2, ensure_ascii=False)
+NameError: name 'json' is not defined

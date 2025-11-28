@@ -1,0 +1,397 @@
+{
+  "version": "1.0",
+  "description": "Industry-specific recommendations for carousel generation - maps industries to styles, elements, and hook patterns",
+  "usage": {
+    "flow": "Industry → filters applicable {styles, elements, hooks} → Insight Family provides context → AI generates content",
+    "priority": "Industry sets guardrails, Insight Family drives specifics"
+  },
+  "industries": [
+    {
+      "id": "apparel_fashion",
+      "name": "Apparel & Fashion",
+      "sector": "DTC",
+      "sub_industries": ["Athleisure", "Intimates", "Sustainable Fashion", "Footwear", "Streetwear", "Eyewear", "Accessories"],
+      "content_profile": {
+        "tone": "aspirational, trend-aware, identity-driven",
+        "emotion_drivers": ["confidence", "self-expression", "belonging", "status"],
+        "copy_style": "punchy, lifestyle-focused, visual-first"
+      },
+      "recommended_styles": {
+        "primary": ["Editorial Magazine", "Elegant Premium", "Dark Dramatic"],
+        "secondary": ["Modern Clean", "Retro Vintage", "Aesthetic Soft"],
+        "avoid": ["Professional Corporate", "Tech Futuristic"]
+      },
+      "recommended_elements": {
+        "hero_slides": ["hero_human", "hero_headline", "tribe_callout"],
+        "content_slides": ["before_after", "quote_card", "x_vs_y"],
+        "proof_slides": ["big_stat", "quote_card", "checklist"],
+        "cta_slides": ["cta_simple", "urgency_fomo"]
+      },
+      "recommended_hook_patterns": {
+        "high_impact": ["tribe_callout", "before_after", "insider_secret"],
+        "medium_impact": ["x_vs_y", "social_proof_stack", "limited_drop_fomo"],
+        "use_sparingly": ["price_math_flip", "myth_bust"]
+      },
+      "relevant_insight_families": {
+        "primary": ["audience_segments", "tribe_identity", "outcome_validation"],
+        "secondary": ["comparisons", "seasonality_trends", "social_proof"]
+      },
+      "example_carousel_packs": ["tribe_specific_5_slide", "founder_story_5_slide", "social_proof_5_slide"]
+    },
+    {
+      "id": "beauty_personal_care",
+      "name": "Beauty & Personal Care",
+      "sector": "DTC",
+      "sub_industries": ["Clean Beauty", "Personalized Skincare", "Men's Grooming", "Oral Care", "Hair Care", "Feminine Care"],
+      "content_profile": {
+        "tone": "educational, aspirational, results-focused",
+        "emotion_drivers": ["confidence", "self-care", "transformation", "trust"],
+        "copy_style": "ingredient-aware, before/after proof, routine-focused"
+      },
+      "recommended_styles": {
+        "primary": ["Aesthetic Soft", "Elegant Premium", "Soft Organic"],
+        "secondary": ["Modern Clean", "Editorial Magazine", "Lo-fi Raw"],
+        "avoid": ["Tech Futuristic", "Bold Typography"]
+      },
+      "recommended_elements": {
+        "hero_slides": ["hero_human", "myth_bust", "tribe_callout"],
+        "content_slides": ["before_after", "process_steps", "bullet_list", "secret_reveal"],
+        "proof_slides": ["quote_card", "big_stat", "x_vs_y"],
+        "cta_slides": ["cta_simple", "urgency_fomo"]
+      },
+      "recommended_hook_patterns": {
+        "high_impact": ["before_after", "myth_bust", "one_change_trick", "single_ingredient_shock"],
+        "medium_impact": ["tribe_callout", "insider_secret", "time_boxed_challenge"],
+        "use_sparingly": ["price_math_flip", "contrarian_take"]
+      },
+      "relevant_insight_families": {
+        "primary": ["outcome_validation", "knowledge_myths", "routines_behavior", "ingredient_tech"],
+        "secondary": ["pain_problem", "social_proof", "safety_fears"]
+      },
+      "example_carousel_packs": ["myth_buster_5_slide", "insider_secret_5_slide", "problem_solution_5_slide"]
+    },
+    {
+      "id": "food_beverage",
+      "name": "Food & Beverage (CPG)",
+      "sector": "DTC",
+      "sub_industries": ["Functional Beverages", "Meal Kits", "Plant-Based", "Healthy Snacks", "Coffee & Tea", "Alcohol & Spirits", "Pantry Staples"],
+      "content_profile": {
+        "tone": "warm, appetizing, lifestyle-integrated",
+        "emotion_drivers": ["pleasure", "health", "convenience", "discovery"],
+        "copy_style": "sensory, benefit-driven, occasion-based"
+      },
+      "recommended_styles": {
+        "primary": ["Warm Friendly", "Soft Organic", "Handcrafted Artisan"],
+        "secondary": ["Modern Clean", "Playful Colorful", "Retro Vintage"],
+        "avoid": ["Professional Corporate", "Tech Futuristic", "Dark Dramatic"]
+      },
+      "recommended_elements": {
+        "hero_slides": ["hero_headline", "product_focus", "tribe_callout"],
+        "content_slides": ["bullet_list", "icon_bullets", "before_after", "process_steps"],
+        "proof_slides": ["quote_card", "big_stat", "checklist"],
+        "cta_slides": ["cta_simple", "urgency_fomo", "price_value"]
+      },
+      "recommended_hook_patterns": {
+        "high_impact": ["tribe_callout", "one_change_trick", "time_boxed_challenge"],
+        "medium_impact": ["insider_secret", "price_math_flip", "social_proof_stack"],
+        "use_sparingly": ["myth_bust", "stop_doing_this"]
+      },
+      "relevant_insight_families": {
+        "primary": ["routines_behavior", "audience_segments", "seasonality_trends"],
+        "secondary": ["ingredient_tech", "social_proof", "value_price"]
+      },
+      "example_carousel_packs": ["tribe_specific_5_slide", "price_value_5_slide", "educational_5_slide"]
+    },
+    {
+      "id": "health_wellness",
+      "name": "Health & Wellness",
+      "sector": "DTC",
+      "sub_industries": ["Supplements & Vitamins", "Fitness Hardware", "Sleep Technology", "Sexual Wellness"],
+      "content_profile": {
+        "tone": "trustworthy, educational, results-oriented",
+        "emotion_drivers": ["health anxiety", "optimization", "transformation", "trust"],
+        "copy_style": "science-backed, outcome-focused, safety-conscious"
+      },
+      "recommended_styles": {
+        "primary": ["Minimalist", "Soft Organic", "Modern Clean"],
+        "secondary": ["Professional Corporate", "Aesthetic Soft", "Warm Friendly"],
+        "avoid": ["Playful Colorful", "Retro Vintage", "Bold Typography"]
+      },
+      "recommended_elements": {
+        "hero_slides": ["hero_headline", "myth_bust", "big_stat"],
+        "content_slides": ["bullet_list", "process_steps", "before_after", "secret_reveal"],
+        "proof_slides": ["quote_card", "big_stat", "checklist"],
+        "cta_slides": ["cta_simple", "price_value"]
+      },
+      "recommended_hook_patterns": {
+        "high_impact": ["myth_bust", "one_change_trick", "time_boxed_challenge", "before_after"],
+        "medium_impact": ["insider_secret", "social_proof_stack", "safety_reassurance"],
+        "use_sparingly": ["limited_drop_fomo", "contrarian_take"]
+      },
+      "relevant_insight_families": {
+        "primary": ["knowledge_myths", "outcome_validation", "safety_fears", "routines_behavior"],
+        "secondary": ["ingredient_tech", "pain_problem", "benchmark_metrics"]
+      },
+      "example_carousel_packs": ["myth_buster_5_slide", "insider_secret_5_slide", "educational_5_slide"]
+    },
+    {
+      "id": "home_living",
+      "name": "Home & Living",
+      "sector": "DTC",
+      "sub_industries": ["Furniture", "Kitchenware", "Home Decor", "Cleaning Supplies"],
+      "content_profile": {
+        "tone": "aspirational, practical, lifestyle-enhancing",
+        "emotion_drivers": ["comfort", "pride", "aesthetics", "functionality"],
+        "copy_style": "visual-first, lifestyle-integrated, quality-focused"
+      },
+      "recommended_styles": {
+        "primary": ["Elegant Premium", "Minimalist", "Modern Clean"],
+        "secondary": ["Soft Organic", "Warm Friendly", "Editorial Magazine"],
+        "avoid": ["Tech Futuristic", "Playful Colorful", "Bold Typography"]
+      },
+      "recommended_elements": {
+        "hero_slides": ["hero_headline", "product_focus", "tribe_callout"],
+        "content_slides": ["before_after", "bullet_list", "icon_bullets"],
+        "proof_slides": ["quote_card", "big_stat", "checklist"],
+        "cta_slides": ["cta_simple", "urgency_fomo"]
+      },
+      "recommended_hook_patterns": {
+        "high_impact": ["before_after", "tribe_callout", "one_change_trick"],
+        "medium_impact": ["insider_secret", "x_vs_y", "social_proof_stack"],
+        "use_sparingly": ["myth_bust", "stop_doing_this"]
+      },
+      "relevant_insight_families": {
+        "primary": ["outcome_validation", "audience_segments", "comparisons"],
+        "secondary": ["value_price", "social_proof", "seasonality_trends"]
+      },
+      "example_carousel_packs": ["x_vs_y_5_slide", "social_proof_5_slide", "tribe_specific_5_slide"]
+    },
+    {
+      "id": "pet_care",
+      "name": "Pet Care",
+      "sector": "DTC",
+      "sub_industries": ["Pet Food", "Pet Supplies"],
+      "content_profile": {
+        "tone": "warm, caring, trustworthy",
+        "emotion_drivers": ["love", "worry", "responsibility", "joy"],
+        "copy_style": "emotional, pet-parent focused, safety-first"
+      },
+      "recommended_styles": {
+        "primary": ["Warm Friendly", "Playful Colorful", "Soft Organic"],
+        "secondary": ["Modern Clean", "Lo-fi Raw"],
+        "avoid": ["Dark Dramatic", "Professional Corporate", "Tech Futuristic"]
+      },
+      "recommended_elements": {
+        "hero_slides": ["hero_headline", "tribe_callout", "hero_human"],
+        "content_slides": ["bullet_list", "checklist", "icon_bullets"],
+        "proof_slides": ["quote_card", "big_stat"],
+        "cta_slides": ["cta_simple", "urgency_fomo"]
+      },
+      "recommended_hook_patterns": {
+        "high_impact": ["tribe_callout", "one_change_trick", "safety_reassurance"],
+        "medium_impact": ["social_proof_stack", "insider_secret"],
+        "use_sparingly": ["price_math_flip", "x_vs_y", "myth_bust"]
+      },
+      "relevant_insight_families": {
+        "primary": ["audience_segments", "safety_fears", "emotional_drivers"],
+        "secondary": ["ingredient_tech", "social_proof", "routines_behavior"]
+      },
+      "example_carousel_packs": ["tribe_specific_5_slide", "educational_5_slide", "social_proof_5_slide"]
+    },
+    {
+      "id": "marketing_sales_martech",
+      "name": "Marketing & Sales (MarTech)",
+      "sector": "SaaS",
+      "sub_industries": ["CRM", "Email Marketing", "Social Media Management", "SEO & Content Marketing", "AdTech"],
+      "content_profile": {
+        "tone": "results-driven, strategic, data-informed",
+        "emotion_drivers": ["achievement", "efficiency", "competitive edge", "ROI anxiety"],
+        "copy_style": "metric-heavy, outcome-focused, tactical"
+      },
+      "recommended_styles": {
+        "primary": ["Professional Corporate", "Modern Clean", "Simple Bold"],
+        "secondary": ["Tech Futuristic", "Bold Typography"],
+        "avoid": ["Aesthetic Soft", "Warm Friendly", "Handcrafted Artisan"]
+      },
+      "recommended_elements": {
+        "hero_slides": ["hero_headline", "stop_doing", "big_stat"],
+        "content_slides": ["bullet_list", "process_steps", "x_vs_y", "before_after"],
+        "proof_slides": ["big_stat", "quote_card", "price_value"],
+        "cta_slides": ["cta_simple", "urgency_fomo"]
+      },
+      "recommended_hook_patterns": {
+        "high_impact": ["price_math_flip", "x_vs_y", "stop_doing_this", "time_boxed_challenge"],
+        "medium_impact": ["myth_bust", "insider_secret", "social_proof_stack"],
+        "use_sparingly": ["tribe_callout", "founder_confession"]
+      },
+      "relevant_insight_families": {
+        "primary": ["value_price", "comparisons", "benchmark_metrics", "pain_problem"],
+        "secondary": ["outcome_validation", "switching_drivers", "performance_fit"]
+      },
+      "example_carousel_packs": ["price_value_5_slide", "x_vs_y_5_slide", "stop_mistake_5_slide"]
+    },
+    {
+      "id": "hr_hrtech",
+      "name": "Human Resources (HRTech)",
+      "sector": "SaaS",
+      "sub_industries": ["HRIS", "Applicant Tracking Systems (ATS)", "Payroll & Compliance", "Employee Engagement"],
+      "content_profile": {
+        "tone": "professional, empathetic, process-oriented",
+        "emotion_drivers": ["compliance fear", "efficiency", "employee satisfaction", "risk mitigation"],
+        "copy_style": "clear, practical, benefit-focused"
+      },
+      "recommended_styles": {
+        "primary": ["Professional Corporate", "Modern Clean", "Warm Friendly"],
+        "secondary": ["Minimalist"],
+        "avoid": ["Dark Dramatic", "Playful Colorful", "Retro Vintage"]
+      },
+      "recommended_elements": {
+        "hero_slides": ["hero_headline", "stop_doing", "myth_bust"],
+        "content_slides": ["bullet_list", "checklist", "process_steps"],
+        "proof_slides": ["big_stat", "quote_card"],
+        "cta_slides": ["cta_simple"]
+      },
+      "recommended_hook_patterns": {
+        "high_impact": ["stop_doing_this", "myth_bust", "time_boxed_challenge"],
+        "medium_impact": ["insider_secret", "social_proof_stack", "price_math_flip"],
+        "use_sparingly": ["limited_drop_fomo", "contrarian_take"]
+      },
+      "relevant_insight_families": {
+        "primary": ["pain_problem", "compliance_deadline", "routines_behavior"],
+        "secondary": ["value_price", "switching_drivers", "benchmark_metrics"]
+      },
+      "example_carousel_packs": ["stop_mistake_5_slide", "myth_buster_5_slide", "problem_solution_5_slide"]
+    },
+    {
+      "id": "productivity_collaboration",
+      "name": "Productivity & Collaboration",
+      "sector": "SaaS",
+      "sub_industries": ["Project Management", "Team Communication", "Knowledge Management", "Design Tools"],
+      "content_profile": {
+        "tone": "efficient, modern, team-focused",
+        "emotion_drivers": ["productivity anxiety", "collaboration", "simplicity", "innovation"],
+        "copy_style": "clear, feature-forward, use-case driven"
+      },
+      "recommended_styles": {
+        "primary": ["Modern Clean", "Minimalist", "Tech Futuristic"],
+        "secondary": ["Professional Corporate", "Simple Bold"],
+        "avoid": ["Elegant Premium", "Handcrafted Artisan", "Retro Vintage"]
+      },
+      "recommended_elements": {
+        "hero_slides": ["hero_headline", "product_focus", "stop_doing"],
+        "content_slides": ["before_after", "process_steps", "icon_bullets", "x_vs_y"],
+        "proof_slides": ["big_stat", "quote_card"],
+        "cta_slides": ["cta_simple", "urgency_fomo"]
+      },
+      "recommended_hook_patterns": {
+        "high_impact": ["stop_doing_this", "x_vs_y", "one_change_trick"],
+        "medium_impact": ["price_math_flip", "time_boxed_challenge", "insider_secret"],
+        "use_sparingly": ["tribe_callout", "founder_confession"]
+      },
+      "relevant_insight_families": {
+        "primary": ["pain_problem", "comparisons", "routines_behavior", "performance_fit"],
+        "secondary": ["switching_drivers", "value_price", "benchmark_metrics"]
+      },
+      "example_carousel_packs": ["x_vs_y_5_slide", "stop_mistake_5_slide", "problem_solution_5_slide"]
+    },
+    {
+      "id": "finance_accounting_fintech",
+      "name": "Finance & Accounting (FinTech)",
+      "sector": "SaaS",
+      "sub_industries": ["Accounting Software", "Expense Management", "Payment Gateways"],
+      "content_profile": {
+        "tone": "trustworthy, precise, ROI-focused",
+        "emotion_drivers": ["financial anxiety", "control", "compliance fear", "efficiency"],
+        "copy_style": "numbers-heavy, precise, outcome-oriented"
+      },
+      "recommended_styles": {
+        "primary": ["Professional Corporate", "Simple Bold", "Dark Dramatic"],
+        "secondary": ["Modern Clean", "Minimalist"],
+        "avoid": ["Playful Colorful", "Aesthetic Soft", "Handcrafted Artisan"]
+      },
+      "recommended_elements": {
+        "hero_slides": ["hero_headline", "big_stat", "stop_doing"],
+        "content_slides": ["price_value", "before_after", "bullet_list", "x_vs_y"],
+        "proof_slides": ["big_stat", "quote_card", "checklist"],
+        "cta_slides": ["cta_simple"]
+      },
+      "recommended_hook_patterns": {
+        "high_impact": ["price_math_flip", "stop_doing_this", "time_boxed_challenge"],
+        "medium_impact": ["x_vs_y", "myth_bust", "social_proof_stack"],
+        "use_sparingly": ["tribe_callout", "founder_confession", "limited_drop_fomo"]
+      },
+      "relevant_insight_families": {
+        "primary": ["value_price", "pain_problem", "compliance_deadline", "benchmark_metrics"],
+        "secondary": ["switching_drivers", "safety_fears", "performance_fit"]
+      },
+      "example_carousel_packs": ["price_value_5_slide", "stop_mistake_5_slide", "x_vs_y_5_slide"]
+    },
+    {
+      "id": "developer_tools_devtools",
+      "name": "Developer Tools (DevTools)",
+      "sector": "SaaS",
+      "sub_industries": ["Cloud Infrastructure", "Observability & Monitoring", "Cybersecurity & Identity"],
+      "content_profile": {
+        "tone": "technical, efficient, no-nonsense",
+        "emotion_drivers": ["craft pride", "efficiency", "reliability anxiety", "innovation"],
+        "copy_style": "technical but accessible, metric-driven, feature-focused"
+      },
+      "recommended_styles": {
+        "primary": ["Tech Futuristic", "Dark Dramatic", "Modern Clean"],
+        "secondary": ["Simple Bold", "Minimalist"],
+        "avoid": ["Warm Friendly", "Aesthetic Soft", "Elegant Premium", "Handcrafted Artisan"]
+      },
+      "recommended_elements": {
+        "hero_slides": ["hero_headline", "product_focus", "big_stat"],
+        "content_slides": ["x_vs_y", "process_steps", "bullet_list", "icon_bullets"],
+        "proof_slides": ["big_stat", "quote_card"],
+        "cta_slides": ["cta_simple", "urgency_fomo"]
+      },
+      "recommended_hook_patterns": {
+        "high_impact": ["x_vs_y", "price_math_flip", "insider_secret"],
+        "medium_impact": ["myth_bust", "time_boxed_challenge", "stop_doing_this"],
+        "use_sparingly": ["tribe_callout", "founder_confession", "before_after"]
+      },
+      "relevant_insight_families": {
+        "primary": ["performance_fit", "comparisons", "benchmark_metrics", "switching_drivers"],
+        "secondary": ["value_price", "pain_problem", "safety_compliance"]
+      },
+      "example_carousel_packs": ["x_vs_y_5_slide", "price_value_5_slide", "problem_solution_5_slide"]
+    }
+  ],
+  "sector_defaults": {
+    "DTC": {
+      "default_tone": "emotional, aspirational, lifestyle-integrated",
+      "default_hooks": ["tribe_callout", "before_after", "social_proof_stack"],
+      "default_styles": ["Modern Clean", "Aesthetic Soft", "Warm Friendly"],
+      "default_elements": ["hero_human", "quote_card", "before_after"]
+    },
+    "SaaS": {
+      "default_tone": "professional, results-driven, data-informed",
+      "default_hooks": ["price_math_flip", "x_vs_y", "stop_doing_this"],
+      "default_styles": ["Professional Corporate", "Modern Clean", "Tech Futuristic"],
+      "default_elements": ["product_focus", "big_stat", "process_steps"]
+    }
+  },
+  "cross_industry_patterns": {
+    "description": "Hook patterns that work across all industries with slight tone adjustment",
+    "universal_hooks": [
+      {
+        "hook": "social_proof_stack",
+        "dtc_framing": "Join 50,000+ happy customers",
+        "saas_framing": "Trusted by 500+ companies"
+      },
+      {
+        "hook": "time_boxed_challenge",
+        "dtc_framing": "7-day glow challenge",
+        "saas_framing": "14-day free trial"
+      },
+      {
+        "hook": "insider_secret",
+        "dtc_framing": "What dermatologists won't tell you",
+        "saas_framing": "What top-performing teams know"
+      }
+    ]
+  }
+}
+

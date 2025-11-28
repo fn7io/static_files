@@ -1,0 +1,13 @@
+{
+  "prompt": "Create a square slide. ELEGANT PREMIUM style: navy background, cream text, gold accents, serif font. Headline 'JOIN' with subtext 'Become a Member'. Premium CTA button. Luxury brand feel.",
+  "enhanced_prompt": "Create a square slide. ELEGANT PREMIUM style: navy background, cream text, gold accents, serif font. Headline 'JOIN' with subtext 'Become a Member'. Premium CTA button. Luxury brand feel., high quality, 1024x1024 resolution",
+  "style": null,
+  "resolution": "1024x1024",
+  "num_images_generated": 1,
+  "saved_paths": [
+    "reference_carousels/elegant_premium_slides/slide_5_cta.png"
+  ],
+  "text_response": null,
+  "timestamp": "2025-11-26T21:28:19.589501",
+  "success": true
+}
